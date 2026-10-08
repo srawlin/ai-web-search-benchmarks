@@ -1,0 +1,3942 @@
+[
+  {
+    "option": "brave",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 700,
+    "sources": [
+      "https://weather.gc.ca/en/location/index.html?coords=45.403%2C-75.687",
+      "https://www.accuweather.com/en/ca/ottawa/k1p/weather-forecast/55487",
+      "https://www.theweathernetwork.com/en/city/ca/ontario/ottawa/7-days",
+      "https://www.wunderground.com/forecast/ca/ottawa",
+      "https://weather.gc.ca/en/forecast/hourly/index.html?coords=45.403%2C-75.687"
+    ],
+    "total_ms": 1592,
+    "answer": "The search results provide weather forecasts for Ottawa, but do not include specific details for this weekend. Please check a local weather website like Environment Canada or The Weather Network for the most up-to-date weekend forecast. (Sources: [1], [3])",
+    "cost": 0.00623,
+    "tokens": {
+      "gpt-4.1": [
+        413,
+        50
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 142,
+    "sources": [
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://en.wikipedia.org/wiki/Thanksgiving_(Canada)",
+      "https://www.farmersalmanac.com/when-canadian-thanksgiving",
+      "https://www.westernunion.com/blog/en/ca/everything-you-need-to-know-about-canadian-thanksgiving/",
+      "https://www.facebook.com/happythanksgivingwishes/posts/-two-countries-two-thanksgiving-dates-canada-celebrates-thanksgiving-on-monday-o/1417658593841352/"
+    ],
+    "total_ms": 1307,
+    "answer": "Canadian Thanksgiving this year is on Monday, October 12, 2026.  \n(Source: Farmers' Almanac, [3])",
+    "cost": 0.00637,
+    "tokens": {
+      "gpt-4.1": [
+        579,
+        27
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 569,
+    "sources": [
+      "https://www.angelfire.com/nv/401/branches.htm",
+      "https://about.biblioottawalibrary.ca/en/library",
+      "https://about.biblioottawalibrary.ca/en/branch/main",
+      "https://biblioottawalibrary.ca/en/node/38719",
+      "https://ottawastart.com/full-regular-hours-returning-to-ottawa-public-library-branches/"
+    ],
+    "total_ms": 1198,
+    "answer": "The Ottawa Public Library main branch closes at 5 PM on Saturdays.  \n(Source: ottawastart.com)",
+    "cost": 0.00611,
+    "tokens": {
+      "gpt-4.1": [
+        461,
+        23
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 524,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions",
+      "https://records.nhl.com/awards/stanley-cup/winners",
+      "https://www.statista.com/statistics/280259/stanley-cup-champions/",
+      "https://www.nhl.com/news/nhl-stanley-cup-champions-winners-complete-list-287705398",
+      "https://www.topendsports.com/events/hockey-ice/stanley-cup/winners-list.htm"
+    ],
+    "total_ms": 1137,
+    "answer": "The most recent Stanley Cup winner is the Carolina Hurricanes.  \n(Source: NHL Records, [2])",
+    "cost": 0.00635,
+    "tokens": {
+      "gpt-4.1": [
+        593,
+        20
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 507,
+    "sources": [
+      "https://www.ctvnews.ca/ottawa/article/fall-colours-hitting-their-peak-in-gatineau-park/",
+      "https://www.ctvnews.ca/ottawa/video/2025/10/14/fall-colours-on-full-display-in-gatineau-park/",
+      "https://www.readersdigest.ca/travel/canada/gatineau-park-fall/",
+      "https://www.facebook.com/gatineaupark/posts/the-colours-are-changing-quickly-in-gatineau-park-with-reds-and-oranges-becoming/1572653088235342/",
+      "https://ncc-ccn.gc.ca/blog/tips-for-taking-in-the-fall-colours-in-gatineau-park"
+    ],
+    "total_ms": 1842,
+    "answer": "Yes, the fall colours in Gatineau Park are currently at their peak or very close to it right now. Source: [1], [4].",
+    "cost": 0.00628,
+    "tokens": {
+      "gpt-4.1": [
+        516,
+        31
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 541,
+    "sources": [
+      "https://www.timeanddate.com/time/change/canada/ontario",
+      "https://www.insauga.com/when-clocks-go-back-this-fall-in-ontario-and-how-it-could-be-the-last-time/",
+      "https://www.ctvnews.ca/ottawa/article/daylight-saving-time-ends-in-the-ottawa-area-this-weekend-heres-what-you-need-to-know/",
+      "https://24timezones.com/Ottawa/time-zone",
+      "https://www.timeanddate.com/time/change/canada/ottawa"
+    ],
+    "total_ms": 1451,
+    "answer": "In Ottawa, the clocks go back one hour at 2:00 a.m. on Sunday, November 1, 2026.  \nSource: [timeanddate.com][4]",
+    "cost": 0.00633,
+    "tokens": {
+      "gpt-4.1": [
+        511,
+        39
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 483,
+    "sources": [
+      "https://www.verywellmind.com/5-4-3-2-1-grounding-technique-8639390",
+      "https://healthymonday.com/stress-management/unwind-monday-5-4-3-2-1-grounding-technique",
+      "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety",
+      "https://www.calm.com/blog/5-4-3-2-1-a-simple-exercise-to-calm-the-mind",
+      "https://health.clevelandclinic.org/54321-grounding-technique"
+    ],
+    "total_ms": 1543,
+    "answer": "The 5-4-3-2-1 grounding technique is a simple exercise to manage anxiety and bring your attention to the present moment. You name 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, and 1 you can taste. This helps disrupt anxious thoughts and calm your mind.  \n(Source: Cleveland Clinic and Calm Blog)",
+    "cost": 0.00689,
+    "tokens": {
+      "gpt-4.1": [
+        615,
+        82
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 502,
+    "sources": [
+      "https://rts.parl.ca/",
+      "https://visit.parl.ca/sites/Visit/default/en_CA/HOC",
+      "https://ottawatourism.ca/en/ottawa-insider/parliament-hill-free-tours-and-programming",
+      "https://www.viator.com/en-CA/Ottawa-attractions/Ottawa-Parliament-Hill/d622-a2096",
+      "https://rts.parl.ca/en-CA/tickets"
+    ],
+    "total_ms": 1173,
+    "answer": "Tours of Parliament Hill are free all year long.  \nSource: Ottawa Tourism[3].",
+    "cost": 0.00617,
+    "tokens": {
+      "gpt-4.1": [
+        515,
+        18
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 485,
+    "sources": [
+      "https://occasionaltransport.ca/",
+      "https://www.octranspo.com/en/news/line-1-service-updates-page",
+      "https://ottawasun.com/news/o-train-line-1-lrt-oc-transpo",
+      "https://www.octranspo.com/en/alerts/",
+      "https://ottawacitizen.com/news/new-service-disruption-oc-transpo-lrt-otrain"
+    ],
+    "total_ms": 1322,
+    "answer": "Yes, there have been service disruptions on the O-Train Line 1 this week, especially between St-Laurent and Blair stations. OC Transpo has been working to fix these issues.  \n(Source: Ottawa Sun, Ottawa Citizen)",
+    "cost": 0.00636,
+    "tokens": {
+      "gpt-4.1": [
+        487,
+        48
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 475,
+    "sources": [
+      "https://www.health.com/magnesium-glycinate-side-effects-11858289",
+      "https://mcpress.mayoclinic.org/nutrition-fitness/magnesium-glycinate-is-this-supplement-helpful-for-you/",
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://www.manipalcigna.com/side-effects/magnesium-glycinate-side-effects",
+      "https://www.iherb.com/blog/magnesium-glycinate-side-effects/2427"
+    ],
+    "total_ms": 1724,
+    "answer": "Common side effects of magnesium glycinate include mild digestive issues like diarrhea, gas, bloating, nausea, and sometimes drowsiness or fatigue. Most people tolerate it well.  \nSources: Health.com [1], Mayo Clinic Press [2], iHerb [5].",
+    "cost": 0.00642,
+    "tokens": {
+      "gpt-4.1": [
+        490,
+        55
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 210,
+    "sources": [
+      "https://weather.gc.ca/en/location/index.html?coords=45.403%2C-75.687",
+      "https://www.accuweather.com/en/ca/ottawa/k1p/weather-forecast/55487",
+      "https://www.theweathernetwork.com/en/city/ca/ontario/ottawa/7-days",
+      "https://www.wunderground.com/forecast/ca/ottawa",
+      "https://weather.gc.ca/en/forecast/hourly/index.html?coords=45.403%2C-75.687"
+    ],
+    "total_ms": 1004,
+    "answer": "The search results don\u2019t provide the exact weekend forecast details. For the most up-to-date Ottawa weather forecast for this weekend, please check Environment Canada or The Weather Network. (Sources: [1], [3])",
+    "cost": 0.00617,
+    "tokens": {
+      "gpt-4.1": [
+        413,
+        43
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 226,
+    "sources": [
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://en.wikipedia.org/wiki/Thanksgiving_(Canada)",
+      "https://www.farmersalmanac.com/when-canadian-thanksgiving",
+      "https://www.westernunion.com/blog/en/ca/everything-you-need-to-know-about-canadian-thanksgiving/",
+      "https://www.facebook.com/happythanksgivingwishes/posts/-two-countries-two-thanksgiving-dates-canada-celebrates-thanksgiving-on-monday-o/1417658593841352/"
+    ],
+    "total_ms": 929,
+    "answer": "Canadian Thanksgiving in 2026 is on Monday, October 12.  \nSource: Farmers' Almanac [3], timeanddate.com [1].",
+    "cost": 0.00641,
+    "tokens": {
+      "gpt-4.1": [
+        579,
+        31
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 510,
+    "sources": [
+      "https://www.angelfire.com/nv/401/branches.htm",
+      "https://about.biblioottawalibrary.ca/en/library",
+      "https://about.biblioottawalibrary.ca/en/branch/main",
+      "https://biblioottawalibrary.ca/en/node/38719",
+      "https://ottawastart.com/full-regular-hours-returning-to-ottawa-public-library-branches/"
+    ],
+    "total_ms": 1531,
+    "answer": "The Ottawa Public Library main branch closes at 5 pm on Saturdays.  \nSource: ottawastart.com, biblioottawalibrary.ca",
+    "cost": 0.00616,
+    "tokens": {
+      "gpt-4.1": [
+        461,
+        30
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 126,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions",
+      "https://records.nhl.com/awards/stanley-cup/winners",
+      "https://www.statista.com/statistics/280259/stanley-cup-champions/",
+      "https://www.nhl.com/news/nhl-stanley-cup-champions-winners-complete-list-287705398",
+      "https://www.topendsports.com/events/hockey-ice/stanley-cup/winners-list.htm"
+    ],
+    "total_ms": 683,
+    "answer": "The most recent Stanley Cup was won by the Carolina Hurricanes.  \n(Source: NHL Records [2])",
+    "cost": 0.00635,
+    "tokens": {
+      "gpt-4.1": [
+        593,
+        20
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 618,
+    "sources": [
+      "https://www.ctvnews.ca/ottawa/article/fall-colours-hitting-their-peak-in-gatineau-park/",
+      "https://www.ctvnews.ca/ottawa/video/2025/10/14/fall-colours-on-full-display-in-gatineau-park/",
+      "https://www.readersdigest.ca/travel/canada/gatineau-park-fall/",
+      "https://www.facebook.com/gatineaupark/posts/the-colours-are-changing-quickly-in-gatineau-park-with-reds-and-oranges-becoming/1572653088235342/",
+      "https://ncc-ccn.gc.ca/blog/tips-for-taking-in-the-fall-colours-in-gatineau-park"
+    ],
+    "total_ms": 1348,
+    "answer": "Yes, the fall colours in Gatineau Park are currently at their peak or very close, with vibrant reds and oranges showing. Source: CTV News and Gatineau Park Facebook update.",
+    "cost": 0.00634,
+    "tokens": {
+      "gpt-4.1": [
+        516,
+        39
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 386,
+    "sources": [
+      "https://www.timeanddate.com/time/change/canada/ontario",
+      "https://www.insauga.com/when-clocks-go-back-this-fall-in-ontario-and-how-it-could-be-the-last-time/",
+      "https://www.ctvnews.ca/ottawa/article/daylight-saving-time-ends-in-the-ottawa-area-this-weekend-heres-what-you-need-to-know/",
+      "https://24timezones.com/Ottawa/time-zone",
+      "https://www.timeanddate.com/time/change/canada/ottawa"
+    ],
+    "total_ms": 1557,
+    "answer": "The clocks in Ottawa will go back one hour at 2 a.m. on Sunday, November 1, 2026.  \n(Source: [timeanddate.com](https://www.timeanddate.com/time/change/canada/ottawa), [insauga.com](https://www.insauga.com/when-clocks-go-back-this-fall-in-ontario-and-how-it-could-be-the-last-time/))",
+    "cost": 0.00671,
+    "tokens": {
+      "gpt-4.1": [
+        511,
+        86
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 130,
+    "sources": [
+      "https://www.verywellmind.com/5-4-3-2-1-grounding-technique-8639390",
+      "https://healthymonday.com/stress-management/unwind-monday-5-4-3-2-1-grounding-technique",
+      "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety",
+      "https://www.calm.com/blog/5-4-3-2-1-a-simple-exercise-to-calm-the-mind",
+      "https://health.clevelandclinic.org/54321-grounding-technique"
+    ],
+    "total_ms": 1195,
+    "answer": "The 5-4-3-2-1 grounding technique is a way to manage anxiety by focusing on your five senses to anchor yourself in the present moment. You identify 5 things you see, 4 things you feel, 3 things you hear, 2 things you smell, and 1 thing you taste. This helps distract your mind from anxious thoughts.  \n(Source: Cleveland Clinic, Calm Blog)",
+    "cost": 0.0069,
+    "tokens": {
+      "gpt-4.1": [
+        615,
+        84
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 138,
+    "sources": [
+      "https://rts.parl.ca/",
+      "https://visit.parl.ca/sites/Visit/default/en_CA/HOC",
+      "https://ottawatourism.ca/en/ottawa-insider/parliament-hill-free-tours-and-programming",
+      "https://www.viator.com/en-CA/Ottawa-attractions/Ottawa-Parliament-Hill/d622-a2096",
+      "https://rts.parl.ca/en-CA/tickets"
+    ],
+    "total_ms": 1899,
+    "answer": "Tours of Parliament Hill are free all year long.  \n(Source: Ottawa Tourism [3])",
+    "cost": 0.00617,
+    "tokens": {
+      "gpt-4.1": [
+        515,
+        18
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 202,
+    "sources": [
+      "https://occasionaltransport.ca/",
+      "https://www.octranspo.com/en/news/line-1-service-updates-page",
+      "https://ottawasun.com/news/o-train-line-1-lrt-oc-transpo",
+      "https://www.octranspo.com/en/alerts/",
+      "https://ottawacitizen.com/news/new-service-disruption-oc-transpo-lrt-otrain"
+    ],
+    "total_ms": 1020,
+    "answer": "Yes, there have been service disruptions on O-Train Line 1 between St-Laurent and Blair stations this week, and the line has experienced multiple issues recently. (Source: Ottawa Sun, Ottawa Citizen)",
+    "cost": 0.00632,
+    "tokens": {
+      "gpt-4.1": [
+        487,
+        43
+      ]
+    }
+  },
+  {
+    "option": "brave",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 201,
+    "sources": [
+      "https://www.health.com/magnesium-glycinate-side-effects-11858289",
+      "https://mcpress.mayoclinic.org/nutrition-fitness/magnesium-glycinate-is-this-supplement-helpful-for-you/",
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://www.manipalcigna.com/side-effects/magnesium-glycinate-side-effects",
+      "https://www.iherb.com/blog/magnesium-glycinate-side-effects/2427"
+    ],
+    "total_ms": 1342,
+    "answer": "Common side effects of magnesium glycinate include mild digestive issues like diarrhea, nausea, bloating, and loose stools. Some people may also experience increased relaxation or drowsiness.  \nSources: Health.com [1], Mayo Clinic Press [2], iHerb/Wellness Hub [5].",
+    "cost": 0.00645,
+    "tokens": {
+      "gpt-4.1": [
+        490,
+        59
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 491,
+    "sources": [
+      "https://www.ctvnews.ca/ottawa/article/sunshine-and-chance-of-showers-expected-this-weekend-in-ottawa/",
+      "https://www.ctvnews.ca/ottawa/article/showers-to-end-this-morning-with-sunshine-and-mild-temperatures-expected-in-ottawa-this-weekend/",
+      "https://exa.ai/library/weather/ottawa-ontario-canada?latitude=45.4261&longitude=-75.6721&date=2026-10-10",
+      "https://www.ctvnews.ca/ottawa/article/ottawa-set-for-cloudy-sunday-with-a-chance-of-showers-frost-advisory-remains-in-effect/",
+      "https://theweathernetwork.xowp.twnmm.com/en/city/ca/ontario/ottawa/weekend"
+    ],
+    "total_ms": 1808,
+    "answer": "This weekend in Ottawa, expect overcast skies with mild temperatures. Saturday's high is around 15\u00b0C and Sunday's high is near 22\u00b0C; there's a low chance of rain both days.  \nSources: The Weather Network, Open-Meteo, CTV News Ottawa.",
+    "cost": 0.01112,
+    "tokens": {
+      "gpt-4.1": [
+        1337,
+        56
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 91,
+    "sources": [
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://www.almanac.com/content/ways-canadian-thanksgiving-differs-american-thanksgiving",
+      "https://en.wikipedia.org/wiki/Canadian_Thanksgiving",
+      "https://www.canada-spirit.com/guides/canada-thanksgiving-explained/",
+      "https://www.calendar-canada.ca/holiday/thanksgiving/10-12-2026/"
+    ],
+    "total_ms": 900,
+    "answer": "Canadian Thanksgiving this year is on Monday, October 12, 2026.  \n(Source: timeanddate.com [1], The Old Farmer\u2019s Almanac [2])",
+    "cost": 0.0112,
+    "tokens": {
+      "gpt-4.1": [
+        1462,
+        35
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 551,
+    "sources": [
+      "https://about.prod.opl.dropfort.dev/en/branch/main",
+      "https://biblioottawalibrary.ca/library",
+      "https://exa.ai/library/place/y6sxh89p6rv",
+      "https://www.loc8nearme.com/ontario/ottawa/ottawa-public-library-main/7944118/",
+      "https://about.prod.opl.dropfort.dev/en/library"
+    ],
+    "total_ms": 1365,
+    "answer": "The Ottawa Public Library main branch closes at 5:00 pm on Saturdays.  \n(Source: [Ottawa Public Library Main Branch hours][1][4])",
+    "cost": 0.01184,
+    "tokens": {
+      "gpt-4.1": [
+        1793,
+        32
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 397,
+    "sources": [
+      "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026",
+      "https://www.nhl.com/hurricanes/news/carolina-hurricanes-win-2026-stanley-cup-final",
+      "https://apnews.com/article/hurricanes-golden-knights-score-stanley-cup-3877d81383e8dfa19c7f118bd7751962",
+      "https://www.reuters.com/sports/hurricanes-beat-golden-knights-win-stanley-cup-2026-06-15/",
+      "https://www.nhl.com/hurricanes/news/recap-canes-vanquish-vegas-to-claim-stanley-cup"
+    ],
+    "total_ms": 1002,
+    "answer": "The Carolina Hurricanes won the most recent Stanley Cup, defeating the Vegas Golden Knights in Game 6 of the 2026 Final.  \nSource: NHL.com, Reuters",
+    "cost": 0.0113,
+    "tokens": {
+      "gpt-4.1": [
+        1517,
+        33
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 505,
+    "sources": [
+      "https://ncc-ccn.gc.ca/events/fall-rhapsody",
+      "https://www.cbc.ca/news/canada/ottawa/ottawa-rainy-summer-could-produce-extra-vibrant-fall-colours-botanist-9.7368337?cmp=rss",
+      "https://www.autumnguide.com/things-to-do/gatineau-park-champlain-lookout",
+      "https://www.ottown.ca/articles/ottawa-gatineau-park-fall-colours-guide-october-2026",
+      "https://www.odysseyshuttles.ca/guides/gatineau-park-fall-colours-2026"
+    ],
+    "total_ms": 1546,
+    "answer": "Yes, the fall colours in Gatineau Park are at their peak right now, as of October 6\u201312, 2026. (Sources: National Capital Commission, AutumnGuide, Odyssey Shuttles)",
+    "cost": 0.01133,
+    "tokens": {
+      "gpt-4.1": [
+        1489,
+        44
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 512,
+    "sources": [
+      "https://www.timeanddate.com/time/change/@6094816",
+      "https://www.timeanddate.com/time/change/@6094816?year=2026",
+      "http://en.timeofdate.com/city/Canada/Ottawa/timezone/change",
+      "https://www.timehubzone.com/time/change/canada/ottawa",
+      "https://www.worldometers.info/time/ottawa-canada/"
+    ],
+    "total_ms": 1267,
+    "answer": "Clocks in Ottawa go back 1 hour on Sunday, November 1, 2026, at 2:00 am.  \n(Source: timeanddate.com [1][2][5])",
+    "cost": 0.01208,
+    "tokens": {
+      "gpt-4.1": [
+        1874,
+        41
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 578,
+    "sources": [
+      "https://health.clevelandclinic.org/54321-grounding-technique",
+      "https://www.healthline.com/health/anxiety/5-4-3-2-1-grounding-technique-for-anxiety",
+      "https://keepcalm.org/calm-now/5-4-3-2-1-sensory-grounding/",
+      "https://psychology.com/tools/grounding-techniques",
+      "https://insighttimer.com/techniques/grounding/5-4-3-2-1-sensory-grounding"
+    ],
+    "total_ms": 1654,
+    "answer": "The 5-4-3-2-1 grounding technique is a simple mindfulness exercise that helps you focus on the present moment by using your five senses. You identify 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, and 1 you can taste. This exercise can help reduce anxiety and interrupt racing thoughts.  \n(Source: Cleveland Clinic [1], Healthline [2])",
+    "cost": 0.01184,
+    "tokens": {
+      "gpt-4.1": [
+        1560,
+        90
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 458,
+    "sources": [
+      "https://www.iap2canada.ca/event-5740393",
+      "https://rts.parl.ca/",
+      "https://rts.parl.ca/Tickets",
+      "https://rts.parl.ca/Register/TourOperator",
+      "https://visit.parl.ca/staticfiles/Visit/assets/html/visit_plan_en.html"
+    ],
+    "total_ms": 1070,
+    "answer": "Tours of Parliament Hill are free of charge.  \nSource: Parliament of Canada tours \u2014 Registration \u2014 Tour operator [4].",
+    "cost": 0.01095,
+    "tokens": {
+      "gpt-4.1": [
+        1378,
+        24
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 515,
+    "sources": [
+      "https://octranspo.org/",
+      "https://octranspo.org/status/2026-10-06/",
+      "https://www.octranspo.com/alerts",
+      "https://plan.octranspo.com/plan/Alerts",
+      "https://www.cbc.ca/news/canada/ottawa/switch-issue-behind-latest-disruption-on-o-train-line-4-9.7359665?cmp=rss"
+    ],
+    "total_ms": 1440,
+    "answer": "As of October 7, 2026, there are no posted O-Train (Ottawa LRT) disruptions for Line 1, Line 2, or Line 4. Always check octranspo.com before you travel for the latest updates.  \nSource: octranspo.org, 2026-10-07 [1].",
+    "cost": 0.01151,
+    "tokens": {
+      "gpt-4.1": [
+        1473,
+        70
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 512,
+    "sources": [
+      "https://electrictigernutrition.com/blogs/learn/magnesium-glycinate-side-effects",
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://yourhealthier.com/blogs/blog/magnesium-glycinate-side-effects",
+      "https://www.health.com/magnesium-glycinate-8415806",
+      "https://thewonderdrop.com/magnesium-glycinate-side-effects/"
+    ],
+    "total_ms": 1533,
+    "answer": "The most common side effects of magnesium glycinate are mild gastrointestinal upset, such as diarrhea, loose stools, cramping, or nausea, especially at high doses. Serious side effects are rare and usually occur in people with impaired kidney function. (Sources: Electric Tiger, The Wonder Drop, YourHealthier.com)",
+    "cost": 0.01118,
+    "tokens": {
+      "gpt-4.1": [
+        1340,
+        62
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 90,
+    "sources": [
+      "https://www.ctvnews.ca/ottawa/article/sunshine-and-chance-of-showers-expected-this-weekend-in-ottawa/",
+      "https://www.ctvnews.ca/ottawa/article/showers-to-end-this-morning-with-sunshine-and-mild-temperatures-expected-in-ottawa-this-weekend/",
+      "https://exa.ai/library/weather/ottawa-ontario-canada?latitude=45.4261&longitude=-75.6721&date=2026-10-10",
+      "https://www.ctvnews.ca/ottawa/article/ottawa-set-for-cloudy-sunday-with-a-chance-of-showers-frost-advisory-remains-in-effect/",
+      "https://theweathernetwork.xowp.twnmm.com/en/city/ca/ontario/ottawa/weekend"
+    ],
+    "total_ms": 921,
+    "answer": "This weekend in Ottawa, expect overcast skies on Saturday with a high of 15\u00b0C and a low of 9\u00b0C, and on Sunday, it will be warmer with a high of 22\u00b0C and a low of 12\u00b0C. There's a low chance of rain both days.  \nSources: The Weather Network, Open-Meteo[3][5].",
+    "cost": 0.01127,
+    "tokens": {
+      "gpt-4.1": [
+        1337,
+        74
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 430,
+    "sources": [
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://www.almanac.com/content/ways-canadian-thanksgiving-differs-american-thanksgiving",
+      "https://en.wikipedia.org/wiki/Canadian_Thanksgiving",
+      "https://www.canada-spirit.com/guides/canada-thanksgiving-explained/",
+      "https://www.calendar-canada.ca/holiday/thanksgiving/10-12-2026/"
+    ],
+    "total_ms": 12698,
+    "answer": "Canadian Thanksgiving this year is on Monday, October 12, 2026.  \n(Source: timeanddate.com [1], Old Farmer\u2019s Almanac [2], Canada Spirit [4])",
+    "cost": 0.01124,
+    "tokens": {
+      "gpt-4.1": [
+        1462,
+        39
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 115,
+    "sources": [
+      "https://about.prod.opl.dropfort.dev/en/branch/main",
+      "https://biblioottawalibrary.ca/library",
+      "https://exa.ai/library/place/y6sxh89p6rv",
+      "https://www.loc8nearme.com/ontario/ottawa/ottawa-public-library-main/7944118/",
+      "https://about.prod.opl.dropfort.dev/en/library"
+    ],
+    "total_ms": 1024,
+    "answer": "The Ottawa Public Library main branch closes at 5:00 pm on Saturdays.  \n(Source: Ottawa Public Library [1][4])",
+    "cost": 0.0118,
+    "tokens": {
+      "gpt-4.1": [
+        1793,
+        27
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 96,
+    "sources": [
+      "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026",
+      "https://www.nhl.com/hurricanes/news/carolina-hurricanes-win-2026-stanley-cup-final",
+      "https://apnews.com/article/hurricanes-golden-knights-score-stanley-cup-3877d81383e8dfa19c7f118bd7751962",
+      "https://www.reuters.com/sports/hurricanes-beat-golden-knights-win-stanley-cup-2026-06-15/",
+      "https://www.nhl.com/hurricanes/news/recap-canes-vanquish-vegas-to-claim-stanley-cup"
+    ],
+    "total_ms": 784,
+    "answer": "The Carolina Hurricanes won the most recent Stanley Cup, defeating the Vegas Golden Knights in Game 6 of the 2026 Stanley Cup Final.  \nSource: NHL.com[1][2][5]",
+    "cost": 0.01135,
+    "tokens": {
+      "gpt-4.1": [
+        1517,
+        40
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 103,
+    "sources": [
+      "https://ncc-ccn.gc.ca/events/fall-rhapsody",
+      "https://www.cbc.ca/news/canada/ottawa/ottawa-rainy-summer-could-produce-extra-vibrant-fall-colours-botanist-9.7368337?cmp=rss",
+      "https://www.autumnguide.com/things-to-do/gatineau-park-champlain-lookout",
+      "https://www.ottown.ca/articles/ottawa-gatineau-park-fall-colours-guide-october-2026",
+      "https://www.odysseyshuttles.ca/guides/gatineau-park-fall-colours-2026"
+    ],
+    "total_ms": 1029,
+    "answer": "Yes, the fall colours in Gatineau Park are at their peak right now. This was last updated on October 6, 2026 (source: National Capital Commission and autumn guides).",
+    "cost": 0.01129,
+    "tokens": {
+      "gpt-4.1": [
+        1489,
+        39
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 439,
+    "sources": [
+      "https://www.timeanddate.com/time/change/@6094816",
+      "https://www.timeanddate.com/time/change/@6094816?year=2026",
+      "http://en.timeofdate.com/city/Canada/Ottawa/timezone/change",
+      "https://www.timehubzone.com/time/change/canada/ottawa",
+      "https://www.worldometers.info/time/ottawa-canada/"
+    ],
+    "total_ms": 1204,
+    "answer": "In Ottawa, the clocks go back 1 hour on Sunday, November 1, 2026, at 2:00 am.  \nSource: timeanddate.com [1][2]",
+    "cost": 0.01207,
+    "tokens": {
+      "gpt-4.1": [
+        1874,
+        40
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 101,
+    "sources": [
+      "https://health.clevelandclinic.org/54321-grounding-technique",
+      "https://www.healthline.com/health/anxiety/5-4-3-2-1-grounding-technique-for-anxiety",
+      "https://keepcalm.org/calm-now/5-4-3-2-1-sensory-grounding/",
+      "https://psychology.com/tools/grounding-techniques",
+      "https://insighttimer.com/techniques/grounding/5-4-3-2-1-sensory-grounding"
+    ],
+    "total_ms": 1079,
+    "answer": "The 5-4-3-2-1 grounding technique is a mindfulness exercise that helps calm anxiety by focusing on your five senses. You name 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, and 1 you can taste to bring your attention back to the present moment.  \nSource: Healthline, Cleveland Clinic, KEEP CALM.",
+    "cost": 0.01179,
+    "tokens": {
+      "gpt-4.1": [
+        1560,
+        84
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 102,
+    "sources": [
+      "https://www.iap2canada.ca/event-5740393",
+      "https://rts.parl.ca/",
+      "https://rts.parl.ca/Tickets",
+      "https://rts.parl.ca/Register/TourOperator",
+      "https://visit.parl.ca/staticfiles/Visit/assets/html/visit_plan_en.html"
+    ],
+    "total_ms": 985,
+    "answer": "Guided tours of Parliament Hill are free for individual visitors. Group reservations for 10 or more are also free, but tour operators may face fees for late cancellations or no-shows.  \nSource: [Parliament of Canada Tours](https://rts.parl.ca/)",
+    "cost": 0.0112,
+    "tokens": {
+      "gpt-4.1": [
+        1378,
+        55
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 112,
+    "sources": [
+      "https://octranspo.org/",
+      "https://octranspo.org/status/2026-10-06/",
+      "https://www.octranspo.com/alerts",
+      "https://plan.octranspo.com/plan/Alerts",
+      "https://www.cbc.ca/news/canada/ottawa/switch-issue-behind-latest-disruption-on-o-train-line-4-9.7359665?cmp=rss"
+    ],
+    "total_ms": 1269,
+    "answer": "As of today, October 7, 2026, there are no posted disruptions on the O-Train lines (Line 1, Line 2, or Line 4). However, Line 4 did have a disruption on September 26 due to a switch issue, but service has since resumed.  \nSource: [OC Transpo status (unofficial)][1], [CBC News][5]",
+    "cost": 0.0116,
+    "tokens": {
+      "gpt-4.1": [
+        1473,
+        82
+      ]
+    }
+  },
+  {
+    "option": "exa",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 111,
+    "sources": [
+      "https://electrictigernutrition.com/blogs/learn/magnesium-glycinate-side-effects",
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://yourhealthier.com/blogs/blog/magnesium-glycinate-side-effects",
+      "https://www.health.com/magnesium-glycinate-8415806",
+      "https://thewonderdrop.com/magnesium-glycinate-side-effects/"
+    ],
+    "total_ms": 1009,
+    "answer": "Common side effects of magnesium glycinate include mild gastrointestinal issues such as diarrhea, loose stools, cramping, or nausea, especially at higher doses. Serious side effects are rare and usually occur in people with impaired kidney function.  \nSources: Electric Tiger [1], YourHealthier [3], The Wonder Drop [5]",
+    "cost": 0.01119,
+    "tokens": {
+      "gpt-4.1": [
+        1340,
+        64
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 21029,
+    "sources": [
+      "https://www.theweathernetwork.com/en/city/ca/ontario/ottawa/7-days",
+      "https://weather.com/ca/ontario/city/ottawa/tenday",
+      "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+      "https://www.ctvnews.ca/ottawa/weather/",
+      "https://www.wunderground.com/forecast/ca/ottawa"
+    ],
+    "total_ms": 22202,
+    "answer": "Sorry, the search results do not include the Ottawa weather forecast for this weekend. No relevant forecast information found. (Sources checked: Weather.gc.ca, Weather Network, CTV News, Weather Channel, Weather Underground)",
+    "cost": 0.00355,
+    "tokens": {
+      "gpt-4.1": [
+        1354,
+        43
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 11492,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thanksgiving_(Canada)",
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://www.westernunion.com/blog/en/ca/everything-you-need-to-know-about-canadian-thanksgiving/",
+      "https://www.farmersalmanac.com/when-canadian-thanksgiving",
+      "https://www.valentinmaya.com/en/blog/thanksgiving-day/"
+    ],
+    "total_ms": 12219,
+    "answer": "Canadian Thanksgiving in 2026 is on Monday, October 12.  \n(Source: Wikipedia, Farmers' Almanac)",
+    "cost": 0.00342,
+    "tokens": {
+      "gpt-4.1": [
+        1362,
+        24
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 18219,
+    "sources": [
+      "https://about.biblioottawalibrary.ca/en/branch/main",
+      "https://about.biblioottawalibrary.ca/en/library",
+      "https://www.facebook.com/detroitpubliclibrary/posts/all-detroitpubliclibrary-locations-will-be-closed-tomorrow-wednesday-october-7-2/1558698956300416/",
+      "https://about.biblioottawalibrary.ca/en",
+      "https://en.wikipedia.org/wiki/Ottawa_Public_Library"
+    ],
+    "total_ms": 19056,
+    "answer": "The specific closing time for the Ottawa Public Library main branch on Saturdays is not given in these search results. Please check the official Ottawa Public Library website or contact the branch directly for current hours.  \nSource: [Ottawa Public Library website](https://about.biblioottawalibrary.ca/en/branch/main)",
+    "cost": 0.00461,
+    "tokens": {
+      "gpt-4.1": [
+        1804,
+        63
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 18837,
+    "sources": [
+      "https://www.nhl.com/news/nhl-stanley-cup-champions-winners-complete-list-287705398",
+      "https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions",
+      "https://records.nhl.com/awards/stanley-cup/winners",
+      "https://www.facebook.com/Hurricanes/videos/stanley-cup-champions-once-again/1359205056074191/",
+      "https://en.wikipedia.org/wiki/Stanley_Cup"
+    ],
+    "total_ms": 19887,
+    "answer": "The most recent Stanley Cup was won by the Carolina Hurricanes.  \nSource: NHL.com ([1])",
+    "cost": 0.00395,
+    "tokens": {
+      "gpt-4.1": [
+        1643,
+        20
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 13029,
+    "sources": [
+      "https://ncc-ccn.gc.ca/events/fall-rhapsody",
+      "https://www.facebook.com/gatineaupark/posts/the-colours-are-changing-quickly-in-gatineau-park-with-reds-and-oranges-becoming/1572653088235342/",
+      "https://www.reddit.com/r/ottawa/comments/1fvkfb9/colour_meter_for_gatineau_park_colours/",
+      "https://www.readersdigest.ca/travel/canada/gatineau-park-fall/",
+      "https://www.ctvnews.ca/ottawa/article/fall-colours-hitting-their-peak-in-gatineau-park/"
+    ],
+    "total_ms": 13882,
+    "answer": "Yes, the fall colours in Gatineau Park are typically at or near their peak in early October, and reports show they are changing quickly with lots of reds and oranges showing. This is a great time to visit.  \nSource: Gatineau Park Facebook post, Reader\u2019s Digest.",
+    "cost": 0.00432,
+    "tokens": {
+      "gpt-4.1": [
+        1679,
+        58
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 17739,
+    "sources": [
+      "https://www.timeanddate.com/time/change/canada/ottawa",
+      "https://www.ctvnews.ca/ottawa/article/daylight-saving-time-ends-in-the-ottawa-area-this-weekend-heres-what-you-need-to-know/",
+      "https://www.youtube.com/watch?v=DvVrVukQTqc",
+      "https://en.wikipedia.org/wiki/Daylight_saving_time_in_Canada",
+      "https://www.facebook.com/theweathernetworkCAN/posts/the-annual-tradition-of-falling-back-is-coming-to-an-end-for-millions-of-canadia/1524013843100232/"
+    ],
+    "total_ms": 19060,
+    "answer": "In Ottawa, the clocks go back one hour on the first Sunday in November. This year, that will be November 1, 2026.  \nSource: Wikipedia [4]",
+    "cost": 0.00461,
+    "tokens": {
+      "gpt-4.1": [
+        1909,
+        37
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 17906,
+    "sources": [
+      "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety",
+      "https://www.calm.com/blog/5-4-3-2-1-a-simple-exercise-to-calm-the-mind",
+      "https://www.youtube.com/watch?v=30VMIEmA114",
+      "https://phillyintegrative.com/blog/5-4-3-2-1-coping-technique-for-anxiety-a-simple-grounding-exercise",
+      "https://www.facebook.com/baptisthealth/videos/anxiety-doesnt-follow-a-schedule-but-you-can-be-prepared-for-it-the-5-4-3-2-1-me/977046464785397/"
+    ],
+    "total_ms": 19558,
+    "answer": "The 5-4-3-2-1 grounding technique is a simple exercise to help manage anxiety by focusing on your five senses. You notice 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. This helps bring your attention to the present moment and calm your mind.  \nSource: Philadelphia Integrative Psychiatry [4]",
+    "cost": 0.00476,
+    "tokens": {
+      "gpt-4.1": [
+        1769,
+        90
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 16302,
+    "sources": [
+      "https://rts.parl.ca/en-CA/tickets",
+      "https://visit.parl.ca/sites/Visit/default/en_CA/HOC",
+      "https://www.timlouismp.ca/visits-to-parliament-hill",
+      "https://www.reddit.com/r/Canadiancitizenship/comments/1p1q2dv/if_you_ever_get_a_chance_to_tour_parliament_you/",
+      "https://ottawatourism.ca/en/ottawa-insider/parliament-hill-free-tours-and-programming"
+    ],
+    "total_ms": 17613,
+    "answer": "Tours of Parliament Hill are free of charge.  \n(Source: Tim Louis MP website, official Parliament Hill tours)",
+    "cost": 0.00296,
+    "tokens": {
+      "gpt-4.1": [
+        1141,
+        22
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 21735,
+    "sources": [
+      "https://www.octranspo.com/en/alerts/",
+      "https://occasionaltransport.ca/",
+      "https://x.com/OC_Transpo?lang=en",
+      "https://www.reddit.com/r/ottawa/comments/1pbben2/octranspo_line_1_issues_this_morning/",
+      "https://www.facebook.com/groups/lrtwrecks/posts/2114733219249948/"
+    ],
+    "total_ms": 22630,
+    "answer": "As of now, there have been no incidents on the O-Train (Ottawa LRT) for over 186 hours, so there are no major disruptions this week. The last reported issue was more than a week ago.  \nSource: Occasional Transport [2].",
+    "cost": 0.00365,
+    "tokens": {
+      "gpt-4.1": [
+        1354,
+        55
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 19982,
+    "sources": [
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://www.health.com/magnesium-glycinate-side-effects-11858289",
+      "https://mcpress.mayoclinic.org/nutrition-fitness/magnesium-glycinate-is-this-supplement-helpful-for-you/",
+      "https://passionhealthphysicians.com/magnesium-glycinate-benefits-side-effects/",
+      "https://www.webmd.com/drugs/magnesium-supplements"
+    ],
+    "total_ms": 21125,
+    "answer": "Common side effects of magnesium glycinate include diarrhea, gas, bloating, nausea, and stomach cramps, especially if taken in high doses. These side effects are usually milder compared to other forms of magnesium. (Sources: Health.com [2], WebMD [5])",
+    "cost": 0.0037,
+    "tokens": {
+      "gpt-4.1": [
+        1378,
+        55
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 1896,
+    "sources": [
+      "https://www.theweathernetwork.com/en/city/ca/ontario/ottawa/7-days",
+      "https://weather.com/ca/ontario/city/ottawa/tenday",
+      "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+      "https://www.ctvnews.ca/ottawa/weather/",
+      "https://www.wunderground.com/forecast/ca/ottawa"
+    ],
+    "total_ms": 2742,
+    "answer": "Sorry, I couldn't find the specific weekend weather forecast for Ottawa in the results provided. Try checking an up-to-date weather site like Environment Canada or The Weather Channel for the latest forecast.  \n(Source: weather.gc.ca, weather.com)",
+    "cost": 0.00376,
+    "tokens": {
+      "gpt-4.1": [
+        1443,
+        47
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 13407,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thanksgiving_(Canada)",
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://www.westernunion.com/blog/en/ca/everything-you-need-to-know-about-canadian-thanksgiving/",
+      "https://www.farmersalmanac.com/when-canadian-thanksgiving",
+      "https://www.valentinmaya.com/en/blog/thanksgiving-day/"
+    ],
+    "total_ms": 14297,
+    "answer": "Canadian Thanksgiving in 2026 is on Monday, October 12.  \n(Source: Wikipedia, timeanddate.com, Farmers\u2019 Almanac)",
+    "cost": 0.00346,
+    "tokens": {
+      "gpt-4.1": [
+        1362,
+        29
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 25013,
+    "sources": [
+      "https://about.biblioottawalibrary.ca/en/branch/main",
+      "https://jolietlibrary.org/hours-locations/",
+      "https://about.biblioottawalibrary.ca/en/library",
+      "https://about.biblioottawalibrary.ca/en",
+      "https://en.wikipedia.org/wiki/Ottawa_Public_Library"
+    ],
+    "total_ms": 26496,
+    "answer": "The search results do not provide the closing time for the Ottawa Public Library main branch on Saturdays. Please check the official Ottawa Public Library website or contact them directly for accurate hours.  \nSource: Ottawa Public Library website ([Main Branch page](https://about.biblioottawalibrary.ca/en/branch/main))",
+    "cost": 0.00428,
+    "tokens": {
+      "gpt-4.1": [
+        1641,
+        62
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 7430,
+    "sources": [
+      "https://www.nhl.com/news/nhl-stanley-cup-champions-winners-complete-list-287705398",
+      "https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions",
+      "https://records.nhl.com/awards/stanley-cup/winners",
+      "https://en.wikipedia.org/wiki/Stanley_Cup",
+      "https://www.statista.com/statistics/280259/stanley-cup-champions/?srsltid=AU7gw4XkVN1AEW0iHSDjzaj2BjikujV-922XaZTruGfNIQ0KWmVwZpsc"
+    ],
+    "total_ms": 8188,
+    "answer": "The most recent Stanley Cup was won by the Carolina Hurricanes in 2026.  \nSource: NHL.com[1], Wikipedia[4].",
+    "cost": 0.0039,
+    "tokens": {
+      "gpt-4.1": [
+        1589,
+        28
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 25123,
+    "sources": [
+      "https://ncc-ccn.gc.ca/events/fall-rhapsody",
+      "https://www.facebook.com/gatineaupark/posts/were-officially-peak-season-on-our-colour-meter-gatineau-park-is-full-of-vibrant/1579823760851608/",
+      "https://www.reddit.com/r/ottawa/comments/1fvkfb9/colour_meter_for_gatineau_park_colours/",
+      "https://www.readersdigest.ca/travel/canada/gatineau-park-fall/",
+      "https://www.facebook.com/ottawanotboring/videos/the-peak-of-fall-will-arrive-soon-to-gatineau-park-and-you-wont-want-to-miss-it-/2349626598905922/"
+    ],
+    "total_ms": 26933,
+    "answer": "Yes, Gatineau Park is currently at peak season for fall colours and is full of vibrant leaves right now.  \nSource: [Gatineau Park Facebook post, 18 hours ago](https://www.facebook.com/gatineaupark/posts/were-officially-peak-season-on-our-colour-meter-gatineau-park-is-full-of-vibrant/1579823760851608/)",
+    "cost": 0.00402,
+    "tokens": {
+      "gpt-4.1": [
+        1434,
+        82
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 16659,
+    "sources": [
+      "https://www.timeanddate.com/time/change/canada/ottawa",
+      "https://www.ctvnews.ca/ottawa/article/daylight-saving-time-ends-in-the-ottawa-area-this-weekend-heres-what-you-need-to-know/",
+      "https://www.facebook.com/theweathernetworkCAN/posts/the-annual-tradition-of-falling-back-is-coming-to-an-end-for-millions-of-canadia/1524013843100232/",
+      "https://www.youtube.com/watch?v=DvVrVukQTqc",
+      "https://en.wikipedia.org/wiki/Daylight_saving_time_in_Canada"
+    ],
+    "total_ms": 17767,
+    "answer": "In Ottawa, the clocks go back on Sunday, November 1, 2026, marking the end of daylight saving time.  \nSource: Wikipedia, Daylight Saving Time in Canada",
+    "cost": 0.00461,
+    "tokens": {
+      "gpt-4.1": [
+        1908,
+        37
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 9191,
+    "sources": [
+      "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety",
+      "https://www.youtube.com/watch?v=30VMIEmA114",
+      "https://www.calm.com/blog/5-4-3-2-1-a-simple-exercise-to-calm-the-mind",
+      "https://www.therapistaid.com/therapy-article/grounding-techniques-article",
+      "https://phillyintegrative.com/blog/5-4-3-2-1-coping-technique-for-anxiety-a-simple-grounding-exercise"
+    ],
+    "total_ms": 10505,
+    "answer": "The 5-4-3-2-1 grounding technique is a simple exercise to help manage anxiety by focusing on your senses. You identify 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. This helps calm your mind and brings your attention to the present moment.  \nSource: [Philadelphia Integrative Psychiatry][5], [Therapist Aid][4]",
+    "cost": 0.00453,
+    "tokens": {
+      "gpt-4.1": [
+        1625,
+        98
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 19506,
+    "sources": [
+      "https://rts.parl.ca/en-CA/tickets",
+      "https://visit.parl.ca/sites/Visit/default/en_CA/HOC",
+      "https://www.parliament.uk/visiting/visiting-and-tours/tour-prices/",
+      "https://www.timlouismp.ca/visits-to-parliament-hill",
+      "https://match.adsrvr.org/track/cmf/generic?ttd_pid=pubmatic"
+    ],
+    "total_ms": 20120,
+    "answer": "Tours of Parliament Hill are free of charge. Source: Tim Louis MP website [4].",
+    "cost": 0.00329,
+    "tokens": {
+      "gpt-4.1": [
+        1324,
+        18
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 19253,
+    "sources": [
+      "https://www.octranspo.com/en/alerts/",
+      "https://occasionaltransport.ca/",
+      "https://www.reddit.com/r/ottawa/comments/1p238o9/line_1_experiencing_delays/",
+      "https://x.com/OC_Transpo?lang=en",
+      "https://ottawacitizen.com/news/new-service-disruption-oc-transpo-lrt-otrain"
+    ],
+    "total_ms": 20396,
+    "answer": "As of now, the Ottawa LRT is running, and the last reported incident was 186 hours ago. There are no major disruptions reported this week.  \nSource: OccasionalTransport.ca",
+    "cost": 0.00314,
+    "tokens": {
+      "gpt-4.1": [
+        1170,
+        38
+      ]
+    }
+  },
+  {
+    "option": "jina",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 20394,
+    "sources": [
+      "https://www.health.com/magnesium-glycinate-side-effects-11858289",
+      "https://mcpress.mayoclinic.org/nutrition-fitness/magnesium-glycinate-is-this-supplement-helpful-for-you/",
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://passionhealthphysicians.com/magnesium-glycinate-benefits-side-effects/",
+      "https://www.mskcc.org/pdf/cancer-care/patient-education/medications/adult/magnesium-glycinate?mode=large"
+    ],
+    "total_ms": 21795,
+    "answer": "Common side effects of magnesium glycinate include diarrhea, gas, bloating, nausea, and stomach cramps, especially at high doses. These side effects are usually milder than with other forms of magnesium.  \nSource: Health.com[1]",
+    "cost": 0.00373,
+    "tokens": {
+      "gpt-4.1": [
+        1424,
+        48
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 887,
+    "sources": [
+      "https://www.theweathernetwork.com/en/city/ca/ontario/ottawa/7-days",
+      "https://weather.com/ca/ontario/city/ottawa/tenday",
+      "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+      "https://www.ctvnews.ca/ottawa/weather/",
+      "https://www.wunderground.com/forecast/ca/ottawa"
+    ],
+    "total_ms": 1879,
+    "answer": "This weekend in Ottawa, expect mainly sunny weather Saturday morning with a mix of sun and clouds in the afternoon and evening. The high will be around 16-17\u00b0C and the low about 4\u00b0C. Source: The Weather Network [1], CTV News [4].",
+    "cost": 0.0019,
+    "tokens": {
+      "gpt-4.1": [
+        475,
+        56
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 1084,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thanksgiving_(Canada)",
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://www.westernunion.com/blog/en/ca/everything-you-need-to-know-about-canadian-thanksgiving/",
+      "https://www.farmersalmanac.com/when-canadian-thanksgiving",
+      "https://www.valentinmaya.com/en/blog/thanksgiving-day/"
+    ],
+    "total_ms": 1862,
+    "answer": "Canadian Thanksgiving in 2026 is on Monday, October 12.  \n(Source: timeanddate.com [2], Farmers' Almanac [4])",
+    "cost": 0.00161,
+    "tokens": {
+      "gpt-4.1": [
+        432,
+        31
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 1168,
+    "sources": [
+      "https://about.biblioottawalibrary.ca/en/branch/main",
+      "https://about.biblioottawalibrary.ca/en/library",
+      "https://about.biblioottawalibrary.ca/en",
+      "https://en.wikipedia.org/wiki/Ottawa_Public_Library",
+      "https://houpl.org/about/locations/index.php"
+    ],
+    "total_ms": 1744,
+    "answer": "The Ottawa Public Library main branch closes at 5:00 pm on Saturdays.  \n(Source: [1] Main)",
+    "cost": 0.00148,
+    "tokens": {
+      "gpt-4.1": [
+        394,
+        24
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 1472,
+    "sources": [
+      "https://www.nhl.com/news/nhl-stanley-cup-champions-winners-complete-list-287705398",
+      "https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions",
+      "https://records.nhl.com/awards/stanley-cup/winners",
+      "https://www.facebook.com/Hurricanes/videos/stanley-cup-champions-once-again/1359205056074191/",
+      "https://en.wikipedia.org/wiki/Stanley_Cup"
+    ],
+    "total_ms": 2703,
+    "answer": "The most recent Stanley Cup was won by the Carolina Hurricanes in 2026.  \n(Source: Wikipedia, [2])",
+    "cost": 0.00151,
+    "tokens": {
+      "gpt-4.1": [
+        411,
+        24
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 1534,
+    "sources": [
+      "https://ncc-ccn.gc.ca/events/fall-rhapsody",
+      "https://www.facebook.com/gatineaupark/posts/were-officially-peak-season-on-our-colour-meter-gatineau-park-is-full-of-vibrant/1579823760851608/",
+      "https://www.reddit.com/r/ottawa/comments/1fvkfb9/colour_meter_for_gatineau_park_colours/",
+      "https://www.readersdigest.ca/travel/canada/gatineau-park-fall/",
+      "https://www.facebook.com/ottawanotboring/videos/the-peak-of-fall-will-arrive-soon-to-gatineau-park-and-you-wont-want-to-miss-it-/2349626598905922/"
+    ],
+    "total_ms": 2221,
+    "answer": "Yes, the fall colours in Gatineau Park are at their peak right now, with vibrant red, orange, and yellow leaves.  \n(Source: [Gatineau Park Facebook post][2])",
+    "cost": 0.00175,
+    "tokens": {
+      "gpt-4.1": [
+        465,
+        40
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 1668,
+    "sources": [
+      "https://www.timeanddate.com/time/change/canada/ottawa",
+      "https://www.ctvnews.ca/ottawa/article/daylight-saving-time-ends-in-the-ottawa-area-this-weekend-heres-what-you-need-to-know/",
+      "https://www.youtube.com/watch?v=DvVrVukQTqc",
+      "https://en.wikipedia.org/wiki/Daylight_saving_time_in_Canada",
+      "https://www.facebook.com/theweathernetworkCAN/posts/the-annual-tradition-of-falling-back-is-coming-to-an-end-for-millions-of-canadia/1524013843100232/"
+    ],
+    "total_ms": 2386,
+    "answer": "The clocks in Ottawa go back one hour on Sunday, November 1, 2026.  \nSource: timeanddate.com [1]",
+    "cost": 0.00163,
+    "tokens": {
+      "gpt-4.1": [
+        448,
+        29
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 1087,
+    "sources": [
+      "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety",
+      "https://www.calm.com/blog/5-4-3-2-1-a-simple-exercise-to-calm-the-mind",
+      "https://www.youtube.com/watch?v=30VMIEmA114",
+      "https://phillyintegrative.com/blog/5-4-3-2-1-coping-technique-for-anxiety-a-simple-grounding-exercise",
+      "https://www.facebook.com/baptisthealth/videos/anxiety-doesnt-follow-a-schedule-but-you-can-be-prepared-for-it-the-5-4-3-2-1-me/977046464785397/"
+    ],
+    "total_ms": 2356,
+    "answer": "The 5-4-3-2-1 grounding technique is a simple exercise to help manage anxiety by focusing on your senses. You list 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, and 1 you can taste. This helps you stay present and calm.  \n(Source: calm.com [2])",
+    "cost": 0.0022,
+    "tokens": {
+      "gpt-4.1": [
+        540,
+        77
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 1024,
+    "sources": [
+      "https://visit.parl.ca/sites/Visit/default/en_CA/HOC",
+      "https://rts.parl.ca/en-CA/tickets",
+      "https://ottawatourism.ca/en/ottawa-insider/parliament-hill-free-tours-and-programming",
+      "https://www.reddit.com/r/Canadiancitizenship/comments/1p1q2dv/if_you_ever_get_a_chance_to_tour_parliament_you/",
+      "https://www.tripadvisor.com/Attraction_Review-g155004-d155615-Reviews-Parliament_Hill_and_Buildings-Ottawa_Ontario.html"
+    ],
+    "total_ms": 2048,
+    "answer": "Tours of Parliament Hill are free of charge. Source: Ottawa Tourism, Visit Parliament sites, TripAdvisor.",
+    "cost": 0.0015,
+    "tokens": {
+      "gpt-4.1": [
+        417,
+        21
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 1345,
+    "sources": [
+      "https://www.octranspo.com/en/alerts/",
+      "https://occasionaltransport.ca/",
+      "https://x.com/OC_TranspoHelps?lang=en",
+      "https://www.reddit.com/r/ottawa/comments/1p238o9/line_1_experiencing_delays/",
+      "https://ottawacitizen.com/news/new-service-disruption-oc-transpo-lrt-otrain"
+    ],
+    "total_ms": 2878,
+    "answer": "Yes, there have been service disruptions on the O-Train (Ottawa LRT) this week, with Line 1 experiencing delays and Line 4 temporarily suspended and replaced by bus service.  \nSources: [2], [3], [4], [5].",
+    "cost": 0.00178,
+    "tokens": {
+      "gpt-4.1": [
+        422,
+        54
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 1041,
+    "sources": [
+      "https://www.health.com/magnesium-glycinate-side-effects-11858289",
+      "https://mcpress.mayoclinic.org/nutrition-fitness/magnesium-glycinate-is-this-supplement-helpful-for-you/",
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://passionhealthphysicians.com/magnesium-glycinate-benefits-side-effects/",
+      "https://www.mskcc.org/pdf/cancer-care/patient-education/medications/adult/magnesium-glycinate?mode=large"
+    ],
+    "total_ms": 1935,
+    "answer": "Common side effects of magnesium glycinate include diarrhea, gas, stomach pain, nausea, and abdominal cramping. Rarely, some people may experience headaches or allergic reactions.  \nSources: Health.com [1], Medical News Today [3]",
+    "cost": 0.00175,
+    "tokens": {
+      "gpt-4.1": [
+        435,
+        48
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 953,
+    "sources": [
+      "https://www.theweathernetwork.com/en/city/ca/ontario/ottawa/7-days",
+      "https://weather.com/ca/ontario/city/ottawa/tenday",
+      "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+      "https://www.ctvnews.ca/ottawa/weather/",
+      "https://www.wunderground.com/forecast/ca/ottawa"
+    ],
+    "total_ms": 1874,
+    "answer": "This weekend in Ottawa, expect mainly sunny weather on Saturday with a high around 16\u201317\u00b0C, and partly cloudy skies in the evening. No significant precipitation is expected.  \nSources: The Weather Network [1], CTV News [4].",
+    "cost": 0.00185,
+    "tokens": {
+      "gpt-4.1": [
+        475,
+        50
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 992,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thanksgiving_(Canada)",
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://www.westernunion.com/blog/en/ca/everything-you-need-to-know-about-canadian-thanksgiving/",
+      "https://www.farmersalmanac.com/when-canadian-thanksgiving",
+      "https://www.valentinmaya.com/en/blog/thanksgiving-day/"
+    ],
+    "total_ms": 2097,
+    "answer": "Canadian Thanksgiving in 2026 is on Monday, October 12.  \n(Source: timeanddate.com, Farmers\u2019 Almanac)",
+    "cost": 0.00154,
+    "tokens": {
+      "gpt-4.1": [
+        410,
+        27
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 1653,
+    "sources": [
+      "https://about.biblioottawalibrary.ca/en/branch/main",
+      "https://about.biblioottawalibrary.ca/en/library",
+      "https://about.biblioottawalibrary.ca/en",
+      "https://en.wikipedia.org/wiki/Ottawa_Public_Library",
+      "https://www.facebook.com/fb-answers/ottawa-main-library-hours/?locale=da_DK"
+    ],
+    "total_ms": 2315,
+    "answer": "The Ottawa Public Library main branch closes at 5:30 p.m. on Saturdays.  \n(Source: [5])",
+    "cost": 0.00153,
+    "tokens": {
+      "gpt-4.1": [
+        419,
+        24
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 1518,
+    "sources": [
+      "https://www.nhl.com/news/nhl-stanley-cup-champions-winners-complete-list-287705398",
+      "https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions",
+      "https://records.nhl.com/awards/stanley-cup/winners",
+      "https://www.facebook.com/Hurricanes/videos/stanley-cup-champions-once-again/1359205056074191/",
+      "https://en.wikipedia.org/wiki/Stanley_Cup"
+    ],
+    "total_ms": 2419,
+    "answer": "The most recent Stanley Cup champions are the Carolina Hurricanes, who won in 2026. (Source: Wikipedia, [2])",
+    "cost": 0.00153,
+    "tokens": {
+      "gpt-4.1": [
+        411,
+        26
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 1424,
+    "sources": [
+      "https://ncc-ccn.gc.ca/events/fall-rhapsody",
+      "https://www.facebook.com/gatineaupark/posts/the-colours-are-changing-quickly-in-gatineau-park-with-reds-and-oranges-becoming/1572653088235342/",
+      "https://www.reddit.com/r/ottawa/comments/1fvkfb9/colour_meter_for_gatineau_park_colours/",
+      "https://www.readersdigest.ca/travel/canada/gatineau-park-fall/",
+      "https://www.ctvnews.ca/ottawa/article/fall-colours-hitting-their-peak-in-gatineau-park/"
+    ],
+    "total_ms": 2660,
+    "answer": "The fall colours in Gatineau Park are changing quickly and becoming more vibrant, but they are at the mid-way point of the season and not quite at their peak yet.  \nSource: [CTV News](https://www.ctvnews.ca/ottawa/article/fall-colours-hitting-their-peak-in-gatineau-park/), [Facebook Gatineau Park](https://www.facebook.com/gatineaupark/posts/the-colours-are-changing-quickly-in-gatineau-park-with-reds-and-oranges-becoming/1572653088235342/)",
+    "cost": 0.00233,
+    "tokens": {
+      "gpt-4.1": [
+        438,
+        119
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 1112,
+    "sources": [
+      "https://www.timeanddate.com/time/change/canada/ottawa",
+      "https://www.ctvnews.ca/ottawa/article/daylight-saving-time-ends-in-the-ottawa-area-this-weekend-heres-what-you-need-to-know/",
+      "https://www.youtube.com/watch?v=DvVrVukQTqc",
+      "https://en.wikipedia.org/wiki/Daylight_saving_time_in_Canada",
+      "https://www.facebook.com/theweathernetworkCAN/posts/the-annual-tradition-of-falling-back-is-coming-to-an-end-for-millions-of-canadia/1524013843100232/"
+    ],
+    "total_ms": 1853,
+    "answer": "The clocks in Ottawa go back one hour on Sunday, November 1, 2026.  \nSource: [timeanddate.com][1], [CTV News][2]",
+    "cost": 0.0017,
+    "tokens": {
+      "gpt-4.1": [
+        454,
+        36
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 1167,
+    "sources": [
+      "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety",
+      "https://www.calm.com/blog/5-4-3-2-1-a-simple-exercise-to-calm-the-mind",
+      "https://www.youtube.com/watch?v=30VMIEmA114",
+      "https://phillyintegrative.com/blog/5-4-3-2-1-coping-technique-for-anxiety-a-simple-grounding-exercise",
+      "https://www.facebook.com/baptisthealth/videos/anxiety-doesnt-follow-a-schedule-but-you-can-be-prepared-for-it-the-5-4-3-2-1-me/977046464785397/"
+    ],
+    "total_ms": 2755,
+    "answer": "The 5-4-3-2-1 grounding technique is a simple exercise to help manage anxiety by engaging your five senses. You name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. This helps bring your attention to the present moment. (Sources: [1], [2])",
+    "cost": 0.00224,
+    "tokens": {
+      "gpt-4.1": [
+        535,
+        84
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 921,
+    "sources": [
+      "https://visit.parl.ca/sites/Visit/default/en_CA/HOC",
+      "https://rts.parl.ca/en-CA/tickets",
+      "https://ottawatourism.ca/en/ottawa-insider/parliament-hill-free-tours-and-programming",
+      "https://www.reddit.com/r/Canadiancitizenship/comments/1p1q2dv/if_you_ever_get_a_chance_to_tour_parliament_you/",
+      "https://www.tripadvisor.com/Attraction_Review-g155004-d155615-Reviews-Parliament_Hill_and_Buildings-Ottawa_Ontario.html"
+    ],
+    "total_ms": 1819,
+    "answer": "Tours of Parliament Hill are free of charge.  \nSource: Ottawa Tourism [3], Visit the House of Commons [1], TripAdvisor [5].",
+    "cost": 0.00157,
+    "tokens": {
+      "gpt-4.1": [
+        417,
+        30
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 1233,
+    "sources": [
+      "https://www.octranspo.com/en/alerts/",
+      "https://occasionaltransport.ca/",
+      "https://www.reddit.com/r/ottawa/comments/1p238o9/line_1_experiencing_delays/",
+      "https://x.com/OC_Transpo?lang=en",
+      "https://ottawacitizen.com/news/new-service-disruption-oc-transpo-lrt-otrain"
+    ],
+    "total_ms": 2175,
+    "answer": "Yes, there have been recent service disruptions on the O-Train (Ottawa LRT) this week, including part of the east-west LRT line experiencing issues for the second time in less than a week.  \nSource: Ottawa Citizen[5]",
+    "cost": 0.00174,
+    "tokens": {
+      "gpt-4.1": [
+        418,
+        51
+      ]
+    }
+  },
+  {
+    "option": "jina_snippets",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 1332,
+    "sources": [
+      "https://www.health.com/magnesium-glycinate-side-effects-11858289",
+      "https://mcpress.mayoclinic.org/nutrition-fitness/magnesium-glycinate-is-this-supplement-helpful-for-you/",
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://passionhealthphysicians.com/magnesium-glycinate-benefits-side-effects/",
+      "https://www.mskcc.org/pdf/cancer-care/patient-education/medications/adult/magnesium-glycinate?mode=large"
+    ],
+    "total_ms": 2253,
+    "answer": "Common side effects of magnesium glycinate include diarrhea, gas, stomach pain, nausea, abdominal cramping, and loose stools. Some people may also experience headaches or, rarely, allergic reactions.  \nSources: Health.com [1], Medical News Today [3], Passion Health Physicians [4].",
+    "cost": 0.00183,
+    "tokens": {
+      "gpt-4.1": [
+        435,
+        58
+      ]
+    }
+  },
+  {
+    "option": "exa_answer",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "total_ms": 1394,
+    "answer": "For the upcoming weekend of October 10-11, 2026, Ottawa is expected to experience sunshine and mild temperatures [1].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "total_ms": 1301,
+    "answer": "Canadian Thanksgiving this year is Monday, October 12, 2026, which is the second Monday in October [1]. In Ottawa, Canada, it falls on that same date nationwide [2].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "total_ms": 1223,
+    "answer": "Ottawa Public Library\u2019s Main branch closes at 5:00 pm on Saturdays [1].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "total_ms": 1850,
+    "answer": "The Carolina Hurricanes won the most recent Stanley Cup, defeating the Vegas Golden Knights in six games to secure the title on June 14, 2026 [1][2][3]. This victory marks the franchise's second championship and their first since 2006 [1][4][5]. Hurricanes captain Jordan Staal was awarded the Conn Smythe Trophy as the playoff MVP [1][2][3].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "total_ms": 1608,
+    "answer": "Yes\u2014fall colours in Gatineau Park are at/near peak right now. The NCC\u2019s Fall Rhapsody page notes peak season as of Oct 6, 2026 [1]. Other guidance for 2026 says peak colour is in the first two weeks of October and the window is \u201cnow through about October 15\u201d [2], with crisp fall weather needed for the most vibrant shades later in October [3].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "total_ms": 1362,
+    "answer": "In Ottawa, the clocks go back one hour on Sunday, November 1, 2026 [1][2]. At 2:00 a.m. local daylight time, clocks are turned backward to 1:00 a.m. local standard time [1][2][3].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "total_ms": 4344,
+    "answer": "The 5-4-3-2-1 grounding technique is a mindfulness exercise that helps interrupt overwhelming emotions by shifting attention to the present moment via your five senses: name 5 things you can see, 4 things you can touch/feel, 3 things you can hear, 2 things you can smell, and 1 thing you can taste [1][2]. Ottawa options also use the same structure (sometimes adding \u201c1 thing you are grateful for\u201d) [3].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "total_ms": 1390,
+    "answer": "Guided tours of Parliament Hill are free of charge [1][2][3]. While the tours are free, visitors are encouraged to reserve tickets in advance through the official online booking system [1][2][3]. A limited number of same-day tickets may be available at each site on a first-come, first-served basis [1][2].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "total_ms": 2056,
+    "answer": "As of October 7, 2026, there are no active service disruptions posted for the O-Train Lines 1, 2, or 4 [1][2]. While OC Transpo has not issued emergency alerts for today, the system is currently operating with reduced capacity due to ongoing maintenance and a significant shortage of available train cars [3]. You should check the official OC Transpo alerts page at octranspo.com before traveling, as there is no live arrival feed available to confirm real-time train movement [1][2].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "total_ms": 2157,
+    "answer": "Magnesium glycinate is generally well-tolerated, but common side effects include mild gastrointestinal issues such as diarrhea, loose stools, nausea, and abdominal cramping [1][2][3][4]. These effects are typically dose-dependent and often resolve by reducing your intake [2][3][4].\n\nSerious side effects are rare in healthy adults but can occur with excessive doses or in individuals with impaired kidney function [2][3][5]. These include irregular heartbeat, extreme low blood pressure, muscle weakness, facial flushing, and difficulty breathing [1][6][2][5]. Consult a healthcare professional before starting, especially if you have kidney disease or take other medications [6][2][7].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "total_ms": 1316,
+    "answer": "For Ottawa this weekend (Sat Oct 10 and Sun Oct 11), the search results only mention the first weekend of October generally (Oct 3\u20134) as sunny and mild, but they don\u2019t provide a specific forecast for this coming weekend. [1]",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "total_ms": 1229,
+    "answer": "Canadian Thanksgiving in 2026 is on Monday, October 12, 2026 (in Ottawa as well). [1][2]",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "total_ms": 1749,
+    "answer": "The Ottawa Public Library main branch closes at 5:00 pm on Saturdays [1][2][3][4].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "total_ms": 1883,
+    "answer": "The Carolina Hurricanes won the most recent Stanley Cup, defeating the Vegas Golden Knights in six games to secure the title on June 14, 2026 [1][2][3]. This victory marks the franchise's second championship and their first since 2006 [1][4][5]. Hurricanes captain Jordan Staal was awarded the Conn Smythe Trophy as the playoff MVP [1][2][3].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "total_ms": 2102,
+    "answer": "Yes, Gatineau Park is currently in its peak fall colour season [1]. The peak window for 2026 is generally considered to be from now through approximately October 15 [1]. While some sources suggest the most vibrant foliage may continue to develop through the first half of October [1][2], others note that peak conditions at specific high-elevation lookouts like Champlain Lookout are expected to be at their best between October 8 and October 12 [3]. You can expect to see the full spectrum of colours now, though conditions will vary by elevation and location within the park [1][4].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "total_ms": 1256,
+    "answer": "In Ottawa, the clocks go back one hour on Sunday, November 1, 2026 [1][2]. At 2:00 a.m. local daylight time, clocks are turned backward to 1:00 a.m. local standard time [1][2][3].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "total_ms": 1851,
+    "answer": "The 5-4-3-2-1 grounding technique is a mindfulness exercise designed to interrupt anxious thoughts or panic by anchoring your attention in the present moment through your five senses. To perform it, you identify five things you can see, four things you can touch or feel, three things you can hear, two things you can smell, and one thing you can taste. By focusing on these external, verifiable details, you redirect your mind away from internal distress and toward your immediate surroundings. It is a portable coping skill that requires no equipment.",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "total_ms": 1525,
+    "answer": "Guided tours of Parliament Hill are free of charge [1][2][3]. While the tours are free, visitors are encouraged to reserve tickets in advance through the official online booking system [1][2][3]. A limited number of same-day tickets may be available at each site on a first-come, first-served basis [1][2].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "total_ms": 1598,
+    "answer": "As of October 7, 2026, there are no active service disruptions posted for the O-Train Lines 1, 2, or 4 [1][2]. While OC Transpo has not issued emergency alerts for today, the system is currently operating with reduced capacity due to ongoing maintenance and a significant shortage of available train cars [3]. You should check the official OC Transpo alerts page at octranspo.com before traveling, as there is no live arrival feed available to confirm real-time train movement [1][2].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "exa_answer",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "total_ms": 1875,
+    "answer": "Magnesium glycinate is generally well-tolerated, but common side effects include mild gastrointestinal issues such as diarrhea, loose stools, nausea, and abdominal cramping [1][2][3][4]. These effects are typically dose-dependent and often resolve by reducing your intake [2][3][4].\n\nSerious side effects are rare in healthy adults but can occur with excessive doses or in individuals with impaired kidney function [2][3][5]. These include irregular heartbeat, extreme low blood pressure, muscle weakness, facial flushing, and difficulty breathing [1][6][2][5]. Consult a healthcare professional before starting, especially if you have kidney disease or take other medications [6][2][7].",
+    "cost": 0.005,
+    "tokens": {}
+  },
+  {
+    "option": "openai_web_search",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "total_ms": 9136,
+    "answer": "Here\u2019s the weather forecast for Ottawa this weekend (Saturday, October 10, and Sunday, October 11, 2026):\n\n- Saturday, October 10: Cloudy in the morning with a mix of clouds and sunshine in the afternoon. High around 62\u202f\u00b0F (17\u202f\u00b0C), low near 47\u202f\u00b0F (8\u202f\u00b0C) \ue200cite\ue202turn0forecast0\ue201.  \n- Sunday, October 11: Warm, with sun shining through high clouds. High near 69\u202f\u00b0F (20\u202f\u00b0C), low around 54\u202f\u00b0F (12\u202f\u00b0C) \ue200cite\ue202turn0forecast0\ue201.\n\nLet me know if you'd like details on wind, precipitation timing, or other specifics!",
+    "cost": 0.01699,
+    "tokens": {
+      "gpt-4.1": [
+        2739,
+        189
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "total_ms": 2201,
+    "answer": "Canadian Thanksgiving in 2026 falls on Monday, October\u202f12\u202f2026\u202f([canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html?utm_source=openai)).",
+    "cost": 0.04527,
+    "tokens": {
+      "gpt-4.1": [
+        17354,
+        70
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "total_ms": 2490,
+    "answer": "The Ottawa Public Library\u2019s Main Branch at 120 Metcalfe Street closes at 5:00\u202fpm on Saturdays\u202f([about.biblioottawalibrary.ca](https://about.biblioottawalibrary.ca/en/branch/main?utm_source=openai))",
+    "cost": 0.04502,
+    "tokens": {
+      "gpt-4.1": [
+        17193,
+        79
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "total_ms": 2467,
+    "answer": "The most recent Stanley Cup was won by the Carolina Hurricanes, who defeated the Vegas Golden Knights in six games to claim their second championship in franchise history.([nhl.com](https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398?utm_source=openai))",
+    "cost": 0.04522,
+    "tokens": {
+      "gpt-4.1": [
+        17288,
+        81
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "total_ms": 2940,
+    "answer": "Yes \u2014 Gatineau Park is currently at its fall foliage peak (as of October 7, 2026), according to the NCC\u2019s \u201ccolour meter\u201d which lists the park as in peak season as of October 6, 2026.\u00a0([ncc-ccn.gc.ca](https://ncc-ccn.gc.ca/events/fall-rhapsody?utm_source=openai))\n\nThe Champlain Lookout in particular is forecast to peak between October\u202f8 and October\u202f12, indicating that peak colours are ongoing and still building in some elevated areas.\u00a0([autumnguide.com](https://www.autumnguide.com/things-to-do/gatineau-park-champlain-lookout?utm_source=openai))",
+    "cost": 0.04571,
+    "tokens": {
+      "gpt-4.1": [
+        17253,
+        151
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "total_ms": 3315,
+    "answer": "The clocks go back in Ottawa on **Sunday, November\u00a01,\u00a02026**, at **2:00\u202fAM**, reverting from Eastern Daylight Time (EDT, UTC\u22124) to Eastern Standard Time (EST, UTC\u22125) ([timeanddate.com](https://www.timeanddate.com/time/change/canada?year=2026&utm_source=openai)).\n\nLet me know if you\u2019d like help adjusting devices or calendars!",
+    "cost": 0.0456,
+    "tokens": {
+      "gpt-4.1": [
+        17318,
+        121
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "total_ms": 1565,
+    "answer": "The 5-4-3-2-1 grounding technique is a mindfulness exercise to reduce anxiety by focusing on your senses: notice 5 things you see, 4 you can touch, 3 you hear, 2 you smell, and 1 you taste. It helps bring your attention to the present moment.  \nSource: Anxiety Canada",
+    "cost": 0.01131,
+    "tokens": {
+      "gpt-4.1": [
+        367,
+        72
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "total_ms": 2691,
+    "answer": "A tour of Parliament Hill in Ottawa is free of charge. Guided tours of the buildings\u2014including the House of Commons (West Block), the Senate Building, East Block (seasonal), and the immersive Centre Block experience\u2014require free tickets reserved in advance but carry no admission fee\u202f([ottawatours.net](https://ottawatours.net/visiting-parliament-hill-tours-prices-hours/?utm_source=openai)).",
+    "cost": 0.04569,
+    "tokens": {
+      "gpt-4.1": [
+        17403,
+        111
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "total_ms": 4268,
+    "answer": "There are **no official O\u2011Train (Ottawa LRT) disruption notices** currently active this week, based on OC\u202fTranspo\u2019s service alerts. ([otranspo.ca](https://otranspo.ca/en/alerts?utm_source=openai))  \nService appears to be running normally for all O\u2011Train lines as of October\u202f6,\u202f2026. ([otranspo.ca](https://otranspo.ca/en/routes/4?view=stops&utm_source=openai))",
+    "cost": 0.07535,
+    "tokens": {
+      "gpt-4.1": [
+        32213,
+        116
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "total_ms": 978,
+    "answer": "Common side effects of magnesium glycinate include diarrhea, nausea, and stomach upset. Most people tolerate it well when taken as directed. Rarely, high doses may cause more severe side effects.  \nSource: Mayo Clinic",
+    "cost": 0.01108,
+    "tokens": {
+      "gpt-4.1": [
+        361,
+        45
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "total_ms": 2617,
+    "answer": "Here\u2019s the **Ottawa, Ontario** weather forecast for **this weekend** (Saturday, October\u202f10 and Sunday, October\u202f11):\n\n\u2022 **Saturday, October 10, 2026**  \n  Cloudy in the morning, becoming partly sunny in the afternoon. High near 62\u202f\u00b0F (17\u202f\u00b0C), low around 47\u202f\u00b0F (8\u202f\u00b0C). \ue200cite\ue202turn0forecast0\ue201\n\n\u2022 **Sunday, October 11, 2026**  \n  Warm, with sun filtered through high clouds. High around 69\u202f\u00b0F (20\u202f\u00b0C), low near 54\u202f\u00b0F (12\u202f\u00b0C). \ue200cite\ue202turn0forecast0\ue201",
+    "cost": 0.01694,
+    "tokens": {
+      "gpt-4.1": [
+        2737,
+        183
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "total_ms": 2167,
+    "answer": "Canadian Thanksgiving in 2026 falls on Monday, October 12.\u202fIt\u2019s observed on the second Monday of October each year\u202f([canada.ca](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html?utm_source=openai)).",
+    "cost": 0.04526,
+    "tokens": {
+      "gpt-4.1": [
+        17312,
+        80
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "total_ms": 4523,
+    "answer": "On Saturdays, the Ottawa Public Library Main Branch (120\u202fMetcalfe St.) closes at 5:00\u202fpm. ([about.biblioottawalibrary.ca](https://about.biblioottawalibrary.ca/en/branch/main?utm_source=openai))",
+    "cost": 0.04558,
+    "tokens": {
+      "gpt-4.1": [
+        17444,
+        87
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "total_ms": 3242,
+    "answer": "The most recent Stanley Cup champion is the Carolina Hurricanes, who defeated the Vegas Golden Knights in six games (4\u20132) to win the 2026 Stanley Cup on June 14, 2026 ([nhl.com](https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398?utm_source=openai)).",
+    "cost": 0.04563,
+    "tokens": {
+      "gpt-4.1": [
+        17415,
+        100
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "total_ms": 4050,
+    "answer": "Yes \u2014 the National Capital Commission\u2019s fall \u201ccolour meter\u201d indicates that Gatineau Park is in **peak season** for fall colours as of **October 6, 2026** ([ncc-ccn.gc.ca](https://ncc-ccn.gc.ca/events/fall-rhapsody?utm_source=openai)).\n\nSo yes \u2014 the fall colours in Gatineau Park are at their peak **right now**.",
+    "cost": 0.04594,
+    "tokens": {
+      "gpt-4.1": [
+        17500,
+        117
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "total_ms": 2562,
+    "answer": "The clocks in Ottawa go back one hour on **Sunday, November\u202f1,\u202f2026**, at **2:00\u202fa.m.**, when Daylight Saving Time ends ([timeanddate.com](https://www.timeanddate.com/time/change/canada?year=2026&utm_source=openai)).\n\n(Source: timeanddate.com)",
+    "cost": 0.0457,
+    "tokens": {
+      "gpt-4.1": [
+        17451,
+        100
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "total_ms": 1349,
+    "answer": "The 5-4-3-2-1 grounding technique is a coping strategy to calm anxiety by focusing on your senses: name 5 things you see, 4 things you feel, 3 things you hear, 2 things you smell, and 1 thing you taste. It helps bring your attention to the present moment.  \n(Source: Anxiety Canada)",
+    "cost": 0.01134,
+    "tokens": {
+      "gpt-4.1": [
+        367,
+        76
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "total_ms": 2997,
+    "answer": "A guided tour of Parliament Hill\u2014whether of the grounds, Senate, House of Commons (West Block), East Block, or the immersive Centre Block experience\u2014is completely free of charge, though advance reservation is required ([ottawatours.net](https://ottawatours.net/visiting-parliament-hill-tours-prices-hours/?utm_source=openai)).",
+    "cost": 0.04565,
+    "tokens": {
+      "gpt-4.1": [
+        17448,
+        94
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "total_ms": 4001,
+    "answer": "I couldn\u2019t find any official alerts or service notices indicating O\u2011Train disruptions this week (October 7 to 13, 2026) \u2014\u202fO\u2011Train Line\u202f1 shows \u201cin service\u201d with zero current alerts reported. (Source: O\u2011Train Line",
+    "cost": 0.07532,
+    "tokens": {
+      "gpt-4.1": [
+        32323,
+        84
+      ]
+    }
+  },
+  {
+    "option": "openai_web_search",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "total_ms": 1120,
+    "answer": "Common side effects of magnesium glycinate include diarrhea, stomach upset, and nausea. Most people tolerate it well, especially compared to other magnesium supplements.  \nSource: Healthline, WebMD",
+    "cost": 0.01103,
+    "tokens": {
+      "gpt-4.1": [
+        361,
+        39
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "total_ms": 3268,
+    "answer": "Saturday will be sunny with a high of 13\u00b0C, and Sunday will be a mix of sun and cloud with a high of 20\u00b0C. Sunday night has a 30% chance of showers with a low of 10\u00b0C. Source: Environment Canada (issued Oct 6, 2026).",
+    "cost": 0.02378,
+    "tokens": {
+      "claude-haiku-4-5": [
+        12907,
+        175
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "total_ms": 2724,
+    "answer": "Canadian Thanksgiving this year is Monday, October 12, 2026\u2014just 5 days away! It's always celebrated on the second Monday in October. Source: Farmers' Almanac.",
+    "cost": 0.0207,
+    "tokens": {
+      "claude-haiku-4-5": [
+        9997,
+        141
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "total_ms": 2405,
+    "answer": "The Ottawa Public Library main branch closes at 5:00 pm on Saturdays. (Source: Ottawa Public Library official website)",
+    "cost": 0.01995,
+    "tokens": {
+      "claude-haiku-4-5": [
+        9416,
+        107
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "total_ms": 3125,
+    "answer": "The Carolina Hurricanes won the 2026 Stanley Cup, defeating the Vegas Golden Knights 4 games to 2. Jordan Staal was named the Conn Smythe Trophy winner. (Source: NHL.com and CBS Sports)",
+    "cost": 0.02116,
+    "tokens": {
+      "claude-haiku-4-5": [
+        10400,
+        153
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "total_ms": 2676,
+    "answer": "Yes, Gatineau Park is at peak season for fall colours right now, according to the National Capital Commission (updated October 6, 2026). This is ideal timing for you to visit and enjoy the display!",
+    "cost": 0.02147,
+    "tokens": {
+      "claude-haiku-4-5": [
+        10817,
+        131
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "total_ms": 2666,
+    "answer": "In Ottawa, clocks go back on Sunday, November 1, 2026 at 2 a.m., when they move back one hour. (Source: InsaugaNews)",
+    "cost": 0.02188,
+    "tokens": {
+      "claude-haiku-4-5": [
+        11263,
+        123
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "total_ms": 1723,
+    "answer": "The 5-4-3-2-1 grounding technique is a mindfulness exercise used to manage anxiety and bring you into the present moment. You identify 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. By engaging your senses in this sequential way, it helps calm your nervous system and redirect your focus away from anxious thoughts.\n\nThis is established general knowledge about a well-known anxiety management technique, so no web search is needed.",
+    "cost": 0.01291,
+    "tokens": {
+      "claude-haiku-4-5": [
+        2280,
+        126
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "total_ms": 3681,
+    "answer": "There's no cost to visit Parliament Hill in Ottawa or the government buildings there that are open to the public. All official guided tours of the Parliament Buildings are offered free of charge. However, private tour companies offer paid guided experiences that include Parliament Hill as part of larger city tours, ranging from around $25-140 USD depending on what's included.\n\nSource: Government of Canada Parliament visitor information and Viator/TripAdvisor tour sites.",
+    "cost": 0.02123,
+    "tokens": {
+      "claude-haiku-4-5": [
+        10298,
+        186
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "total_ms": 3069,
+    "answer": "I'll search for current O-Train disruptions in Ottawa for you.I'm not able to find current disruption information for this specific week (October 7-13, 2026) in the search results. The articles I found are from earlier in 2026 and past years. For real-time O-Train disruption information, I'd recommend checking OC Transpo's official website or their alerts, as they provide daily updates on service status and planned maintenance.",
+    "cost": 0.0213,
+    "tokens": {
+      "claude-haiku-4-5": [
+        10474,
+        166
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "total_ms": 3421,
+    "answer": "The most common side effects are mild gastrointestinal upset (nausea, bloating, loose stools) and increased relaxation or drowsiness. Headaches, dizziness, or low blood pressure are uncommon but can occur with higher doses. These symptoms are generally temporary and will often improve once your body has adjusted. Source: iHerb and Swisse health websites.",
+    "cost": 0.02148,
+    "tokens": {
+      "claude-haiku-4-5": [
+        10486,
+        198
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "total_ms": 2630,
+    "answer": "Saturday will be sunny with a high of 13\u00b0C, and Sunday will be a mix of sun and cloud with a high of 20\u00b0C. Source: Environment Canada.",
+    "cost": 0.02357,
+    "tokens": {
+      "claude-haiku-4-5": [
+        12880,
+        139
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "total_ms": 2358,
+    "answer": "Canadian Thanksgiving is Monday, October 12, 2026\u2014that's just five days away! It's a statutory holiday in Ontario and most Canadian provinces. Source: Farmers' Almanac.",
+    "cost": 0.02061,
+    "tokens": {
+      "claude-haiku-4-5": [
+        9997,
+        123
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "total_ms": 2302,
+    "answer": "The Ottawa Public Library main branch closes at 5:00 pm on Saturdays. Source: Ottawa Public Library official website.",
+    "cost": 0.01999,
+    "tokens": {
+      "claude-haiku-4-5": [
+        9452,
+        107
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "total_ms": 2750,
+    "answer": "The Carolina Hurricanes won the 2026 Stanley Cup, defeating the Vegas Golden Knights 3-0 in Game 6. It was their second championship in franchise history. (Source: NHL.com)",
+    "cost": 0.02116,
+    "tokens": {
+      "claude-haiku-4-5": [
+        10517,
+        128
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "total_ms": 3340,
+    "answer": "Yes! Gatineau Park's fall colors are at peak season as of October 6, 2026, so you're right on schedule. Peak color usually arrives between the last week of September and the first week of October, which matches where we are now. Source: National Capital Commission and travel guides.",
+    "cost": 0.02145,
+    "tokens": {
+      "claude-haiku-4-5": [
+        10618,
+        166
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "total_ms": 2662,
+    "answer": "The clocks go back on Sunday, November 1, 2026, at 2:00 AM in Ottawa, when they turn backward one hour. (Source: timeanddate.com)",
+    "cost": 0.02144,
+    "tokens": {
+      "claude-haiku-4-5": [
+        10805,
+        127
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "total_ms": 1460,
+    "answer": "The 5-4-3-2-1 grounding technique is a mindfulness exercise used to manage anxiety and stay present. Here's how it works: you identify 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. By engaging your senses in this way, it helps redirect your focus away from anxious thoughts and brings your attention to the present moment, which can help calm your nervous system.",
+    "cost": 0.01286,
+    "tokens": {
+      "claude-haiku-4-5": [
+        2280,
+        116
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "total_ms": 3426,
+    "answer": "There's no cost to visit Parliament Hill or its public government buildings. Official guided tours are offered free of charge, though you can book through Parliamentary Tours at 613-996-0896. If you want a commercial tour with other attractions included, those typically run from $25-$150+ USD depending on what's included (source: Viator, TripAdvisor).",
+    "cost": 0.02116,
+    "tokens": {
+      "claude-haiku-4-5": [
+        10293,
+        173
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "total_ms": 4615,
+    "answer": "Let me search for more current information about this week specifically.I wasn't able to find current information about this specific week's O-Train disruptions in my search results. I'd recommend checking the official OC Transpo website or their transit alert system directly for the most up-to-date information about any disruptions happening this week (October 7-13, 2026).",
+    "cost": 0.03547,
+    "tokens": {
+      "claude-haiku-4-5": [
+        24421,
+        210
+      ]
+    }
+  },
+  {
+    "option": "anthropic_web_search",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "total_ms": 3134,
+    "answer": "The most common side effects of magnesium glycinate are mild gastrointestinal upset (nausea, bloating, loose stools) and increased drowsiness. Headaches, dizziness, or low blood pressure are uncommon but can occur with higher doses. These symptoms are generally temporary and often improve once your body adjusts. (Source: iHerb Health Blog and Swisse)",
+    "cost": 0.02121,
+    "tokens": {
+      "claude-haiku-4-5": [
+        10200,
+        201
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "total_ms": 6967,
+    "answer": "According to Environment Canada, Saturday, October 10, will be sunny with a daytime high of 13\u00b0C and an overnight low of 5\u00b0C. Sunday, October 11, is forecast to have a mix of sun and cloud with a high of 20\u00b0C and an overnight low of 10\u00b0C alongside a 30% chance of showers.",
+    "cost": 0.01425,
+    "tokens": {
+      "gemini-3.8-flash": [
+        62,
+        93
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "total_ms": 5384,
+    "answer": "Canadian Thanksgiving is on Monday, October 12, 2026. In Canada, it is celebrated every year on the second Monday of October. \n\n*(Source: Government of Canada / Canada.ca)*",
+    "cost": 0.01421,
+    "tokens": {
+      "gemini-3.8-flash": [
+        58,
+        78
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "total_ms": 7475,
+    "answer": "The Ottawa Public Library Main branch closes at 5:00 p.m. on Saturdays. \n\n*Source: Ottawa Public Library website.*",
+    "cost": 0.01411,
+    "tokens": {
+      "gemini-3.8-flash": [
+        64,
+        36
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "total_ms": 5411,
+    "answer": "The Carolina Hurricanes won the most recent Stanley Cup in June 2026, defeating the Vegas Golden Knights in six games. \n\n*(Source: NHL.com / NHL Records)*",
+    "cost": 0.01418,
+    "tokens": {
+      "gemini-3.8-flash": [
+        59,
+        65
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "total_ms": 9027,
+    "answer": "Yes, the fall colours in Gatineau Park are at their peak right now. According to the National Capital Commission's Fall Rhapsody colour meter, the foliage has officially reached peak season with vibrant red, orange, and yellow leaves.",
+    "cost": 0.0142,
+    "tokens": {
+      "gemini-3.8-flash": [
+        65,
+        73
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "total_ms": 3905,
+    "answer": "In Ottawa, the clocks go back one hour at 2:00 a.m. on Sunday, November 1, 2026. \n\n*(Source: Time and Date / City of Ottawa time schedules)*",
+    "cost": 0.0142,
+    "tokens": {
+      "gemini-3.8-flash": [
+        62,
+        74
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "total_ms": 7563,
+    "answer": "The 5-4-3-2-1 technique is a sensory mindfulness exercise used to manage anxiety, panic, and racing thoughts by anchoring you in the present moment. It works by prompting you to notice five things you can see, four you can touch, three you can hear, two you can smell, and one you can taste. \n\n*(Source: Cleveland Clinic)*",
+    "cost": 0.0143,
+    "tokens": {
+      "gemini-3.8-flash": [
+        67,
+        110
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "total_ms": 5429,
+    "answer": "Official guided tours of Parliament Hill are completely free of charge, though tickets must be booked in advance. \n\n*Source: Ottawa Tourism / Parliament of Canada*",
+    "cost": 0.01417,
+    "tokens": {
+      "gemini-3.8-flash": [
+        61,
+        59
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "total_ms": 5748,
+    "answer": "There are no scheduled major O-Train closures or major LRT disruptions reported for this week. Regular service is operating normally across the system, though occasional minor delays can happen. \n\nSource: OC Transpo Service Alerts.",
+    "cost": 0.01423,
+    "tokens": {
+      "gemini-3.8-flash": [
+        65,
+        83
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "total_ms": 5139,
+    "answer": "Although magnesium glycinate is generally well-tolerated and gentler on the stomach than other forms, common side effects include mild gastrointestinal issues such as diarrhea, stomach cramps, and nausea. Some people may also experience drowsiness due to its calming properties. \n\n*(Source: Mayo Clinic Press / WebMD)*",
+    "cost": 0.01428,
+    "tokens": {
+      "gemini-3.8-flash": [
+        62,
+        103
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "total_ms": 8775,
+    "answer": "This weekend in Ottawa, Saturday (October 10) is expected to be sunny or a mix of sun and clouds with highs between 16\u00b0C and 21\u00b0C. Sunday (October 11) will see increasing cloudiness with a high near 20\u00b0C and a likely chance of rain. \n\n*(Source: The Weather Network / CTV News)*",
+    "cost": 0.0152,
+    "tokens": {
+      "gemini-3.8-flash": [
+        222,
+        454
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "total_ms": 4582,
+    "answer": "Canadian Thanksgiving is on Monday, October 12, 2026. According to the Government of Canada, it is officially celebrated each year on the second Monday in October.",
+    "cost": 0.01444,
+    "tokens": {
+      "gemini-3.8-flash": [
+        160,
+        158
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "total_ms": 6473,
+    "answer": "The Ottawa Public Library Main branch closes at 5:00 p.m. on Saturdays. \n\n*Source: Ottawa Public Library official website.*",
+    "cost": 0.01413,
+    "tokens": {
+      "gemini-3.8-flash": [
+        64,
+        44
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "total_ms": 11698,
+    "answer": "The Carolina Hurricanes won the most recent Stanley Cup in June 2026, defeating the Vegas Golden Knights four games to two. \n\nSource: NHL Records.",
+    "cost": 0.01488,
+    "tokens": {
+      "gemini-3.8-flash": [
+        217,
+        327
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "total_ms": 11379,
+    "answer": "Yes, the fall colours in Gatineau Park are currently at or very near their peak. Early October lines up with the park's most vibrant foliage during the annual Fall Rhapsody event. This status is tracked by the National Capital Commission (NCC).",
+    "cost": 0.01424,
+    "tokens": {
+      "gemini-3.8-flash": [
+        65,
+        90
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "total_ms": 4458,
+    "answer": "In Ottawa, the clocks go back one hour at 2:00 a.m. on Sunday, November 1, 2026. This marks the end of daylight saving time and the return to Eastern Standard Time. \n\n*(Source: Time and Date)*",
+    "cost": 0.01421,
+    "tokens": {
+      "gemini-3.8-flash": [
+        62,
+        76
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "total_ms": 10408,
+    "answer": "The 5-4-3-2-1 technique is a mindfulness exercise used to manage anxiety and bring focus back to the present moment. It works by using your senses to identify five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. \n\n*(Source: University of Rochester Medical Center)*",
+    "cost": 0.01432,
+    "tokens": {
+      "gemini-3.8-flash": [
+        67,
+        119
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "total_ms": 7693,
+    "answer": "Official guided tours of the Parliament Buildings are completely free of charge. You simply need to reserve your tickets in advance online. \n\n**Source:** Ottawa Tourism / Parliament of Canada.",
+    "cost": 0.01419,
+    "tokens": {
+      "gemini-3.8-flash": [
+        61,
+        68
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "total_ms": 11707,
+    "answer": "According to OC Transpo's official live alerts, there are currently no active disruptions or closures posted for O-Train service this week. If you are planning a trip, you can confirm real-time line status directly on the OC Transpo Alerts page or via the Transit app.",
+    "cost": 0.01421,
+    "tokens": {
+      "gemini-3.8-flash": [
+        65,
+        76
+      ]
+    }
+  },
+  {
+    "option": "gemini_grounding",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "total_ms": 3569,
+    "answer": "Although magnesium glycinate is generally well tolerated and gentler on the stomach than other forms, common side effects can still include diarrhea, nausea, and stomach cramps or gastrointestinal upset, especially at higher doses. Some people may also experience drowsiness. \n\n*Source: Mayo Clinic Press / WebMD*",
+    "cost": 0.01427,
+    "tokens": {
+      "gemini-3.8-flash": [
+        62,
+        101
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 450,
+    "sources": [
+      "https://www.theweathernetwork.com/en/city/ca/ontario/ottawa/7-days",
+      "https://weather.com/ca/ontario/city/ottawa/tenday",
+      "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+      "https://www.ctvnews.ca/ottawa/weather/",
+      "https://www.wunderground.com/forecast/ca/ottawa"
+    ],
+    "total_ms": 1716,
+    "answer": "This weekend in Ottawa, Saturday will be a mix of sun and cloud with a 30% chance of showers and a high of 14\u00b0C. Sunday will also be a mix of sun and cloud with a high of 19\u00b0C.  \n(Source: Environment Canada [3])",
+    "cost": 0.01309,
+    "tokens": {
+      "gpt-4.1": [
+        4671,
+        56
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 426,
+    "sources": [
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://www.farmersalmanac.com/when-canadian-thanksgiving",
+      "https://www.facebook.com/happythanksgivingwishes/posts/-two-countries-two-thanksgiving-dates-canada-celebrates-thanksgiving-on-monday-o/1417658593841352/",
+      "https://www.qppstudio.net/global-holidays-observances/canadian-thanksgiving.htm",
+      "https://www.westernunion.com/blog/en/ca/everything-you-need-to-know-about-canadian-thanksgiving/"
+    ],
+    "total_ms": 1674,
+    "answer": "Canadian Thanksgiving this year is on Monday, October 12, 2026.  \nSource: Time and Date, Farmers' Almanac",
+    "cost": 0.00551,
+    "tokens": {
+      "gpt-4.1": [
+        998,
+        27
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 199,
+    "sources": [
+      "https://about.biblioottawalibrary.ca/en/branch/main",
+      "https://about.biblioottawalibrary.ca/en/library",
+      "https://about.biblioottawalibrary.ca/en",
+      "https://en.wikipedia.org/wiki/Ottawa_Public_Library",
+      "https://www.reddit.com/r/ottawa/comments/1twvx0b/the_ottawa_public_library_should_open_earlier/"
+    ],
+    "total_ms": 1451,
+    "answer": "The Ottawa Public Library main branch closes at 5:00 pm on Saturdays.  \n(Source: [1])",
+    "cost": 0.00431,
+    "tokens": {
+      "gpt-4.1": [
+        417,
+        22
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 984,
+    "sources": [
+      "https://www.nhl.com/news/nhl-stanley-cup-champions-winners-complete-list-287705398",
+      "https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions",
+      "https://records.nhl.com/awards/stanley-cup/winners",
+      "https://www.facebook.com/Hurricanes/videos/stanley-cup-champions-once-again/1359205056074191/",
+      "https://en.wikipedia.org/wiki/Stanley_Cup"
+    ],
+    "total_ms": 2282,
+    "answer": "The most recent Stanley Cup was won by the Carolina Hurricanes in 2026.  \nSource: NHL.com and Wikipedia ([1], [2], [3]).",
+    "cost": 0.06574,
+    "tokens": {
+      "gpt-4.1": [
+        31090,
+        32
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 401,
+    "sources": [
+      "https://ncc-ccn.gc.ca/events/fall-rhapsody",
+      "https://www.facebook.com/gatineaupark/posts/were-officially-peak-season-on-our-colour-meter-gatineau-park-is-full-of-vibrant/1579823760851608/",
+      "https://www.reddit.com/r/ottawa/comments/1fvkfb9/colour_meter_for_gatineau_park_colours/",
+      "https://www.readersdigest.ca/travel/canada/gatineau-park-fall/",
+      "https://www.facebook.com/ottawanotboring/videos/the-peak-of-fall-will-arrive-soon-to-gatineau-park-and-you-wont-want-to-miss-it-/2349626598905922/"
+    ],
+    "total_ms": 1099,
+    "answer": "Yes, the fall colours in Gatineau Park are at their peak right now, with vibrant red, orange, and yellow leaves.  \nSource: Facebook post from Gatineau Park ([2]).",
+    "cost": 0.00465,
+    "tokens": {
+      "gpt-4.1": [
+        515,
+        40
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 537,
+    "sources": [
+      "https://www.timeanddate.com/time/change/canada/ottawa",
+      "https://www.ctvnews.ca/ottawa/article/daylight-saving-time-ends-in-the-ottawa-area-this-weekend-heres-what-you-need-to-know/",
+      "https://www.youtube.com/watch?v=DvVrVukQTqc",
+      "https://en.wikipedia.org/wiki/Daylight_saving_time_in_Canada",
+      "https://ottawa.citynews.ca/2026/03/06/ontario-daylight-saving-time-march-2026-spring-forward-canada/"
+    ],
+    "total_ms": 1483,
+    "answer": "The clocks in Ottawa go back one hour on Sunday, November 1, 2026.  \nSource: [timeanddate.com](https://www.timeanddate.com/time/change/canada/ottawa)",
+    "cost": 0.00457,
+    "tokens": {
+      "gpt-4.1": [
+        459,
+        44
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 742,
+    "sources": [
+      "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety",
+      "https://www.calm.com/blog/5-4-3-2-1-a-simple-exercise-to-calm-the-mind",
+      "https://www.youtube.com/watch?v=30VMIEmA114",
+      "https://phillyintegrative.com/blog/5-4-3-2-1-coping-technique-for-anxiety-a-simple-grounding-exercise",
+      "https://www.facebook.com/baptisthealth/videos/anxiety-doesnt-follow-a-schedule-but-you-can-be-prepared-for-it-the-5-4-3-2-1-me/977046464785397/"
+    ],
+    "total_ms": 1982,
+    "answer": "The 5-4-3-2-1 grounding technique is a simple exercise to help manage anxiety by focusing on your senses. You identify 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. This helps bring your attention to the present moment.  \n(Source: Calm, urmc.rochester.edu)",
+    "cost": 0.00518,
+    "tokens": {
+      "gpt-4.1": [
+        596,
+        86
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 438,
+    "sources": [
+      "https://visit.parl.ca/sites/Visit/default/en_CA/HOC",
+      "https://rts.parl.ca/en-CA/tickets",
+      "https://www.parliament.uk/visiting/visiting-and-tours/tour-prices/",
+      "https://ottawatourism.ca/en/ottawa-insider/parliament-hill-free-tours-and-programming",
+      "https://www.tripadvisor.com/Attraction_Review-g155004-d155615-Reviews-Parliament_Hill_and_Buildings-Ottawa_Ontario.html"
+    ],
+    "total_ms": 1155,
+    "answer": "Tours of Parliament Hill are free of charge.  \n(Source: Ottawa Tourism [4], Tripadvisor [5])",
+    "cost": 0.00457,
+    "tokens": {
+      "gpt-4.1": [
+        551,
+        21
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 174,
+    "sources": [
+      "https://www.octranspo.com/en/alerts/",
+      "https://occasionaltransport.ca/",
+      "https://www.reddit.com/r/ottawa/comments/1p238o9/line_1_experiencing_delays/",
+      "https://x.com/OC_TranspoHelps?lang=en",
+      "https://ottawacitizen.com/news/new-service-disruption-oc-transpo-lrt-otrain"
+    ],
+    "total_ms": 1015,
+    "answer": "Yes, there have been O-Train (Ottawa LRT) service disruptions this week, including delays on Line 1 and suspended service on Line 4, with replacement buses running. Sources: Ottawa Citizen, OC Transpo Helps on X, Reddit.",
+    "cost": 0.00459,
+    "tokens": {
+      "gpt-4.1": [
+        438,
+        52
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 749,
+    "sources": [
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://www.health.com/magnesium-glycinate-side-effects-11858289",
+      "https://mcpress.mayoclinic.org/nutrition-fitness/magnesium-glycinate-is-this-supplement-helpful-for-you/",
+      "https://passionhealthphysicians.com/magnesium-glycinate-benefits-side-effects/",
+      "https://www.mskcc.org/pdf/cancer-care/patient-education/medications/adult/magnesium-glycinate?mode=large"
+    ],
+    "total_ms": 1613,
+    "answer": "Common side effects of magnesium glycinate include diarrhea, nausea, stomach pain, gas, and sometimes headaches. High doses may increase these risks. Source: Medical News Today [1], Mayo Clinic [3], Health.com [2].",
+    "cost": 0.00521,
+    "tokens": {
+      "gpt-4.1": [
+        773,
+        46
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 1414,
+    "sources": [
+      "https://www.theweathernetwork.com/en/city/ca/ontario/ottawa/7-days",
+      "https://weather.com/ca/ontario/city/ottawa/tenday",
+      "https://weather.gc.ca/en/location/index.html?coords=45.403,-75.687",
+      "https://www.ctvnews.ca/ottawa/weather/",
+      "https://www.wunderground.com/forecast/ca/ottawa"
+    ],
+    "total_ms": 2647,
+    "answer": "This weekend in Ottawa, Saturday will have a mix of sun and cloud with a 30\u201340% chance of showers and a high of 14\u00b0C. Sunday will be warmer, with a mix of sun and cloud and a high of 19\u00b0C.  \nSource: Environment Canada [3].",
+    "cost": 0.01312,
+    "tokens": {
+      "gpt-4.1": [
+        4671,
+        60
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 613,
+    "sources": [
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://www.farmersalmanac.com/when-canadian-thanksgiving",
+      "https://www.facebook.com/happythanksgivingwishes/posts/-two-countries-two-thanksgiving-dates-canada-celebrates-thanksgiving-on-monday-o/1417658593841352/",
+      "https://www.qppstudio.net/global-holidays-observances/canadian-thanksgiving.htm",
+      "https://www.westernunion.com/blog/en/ca/everything-you-need-to-know-about-canadian-thanksgiving/"
+    ],
+    "total_ms": 1180,
+    "answer": "Canadian Thanksgiving this year is on Monday, October 12, 2026.  \nSource: timeanddate.com[1], Farmers' Almanac[2].",
+    "cost": 0.00556,
+    "tokens": {
+      "gpt-4.1": [
+        998,
+        33
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 178,
+    "sources": [
+      "https://about.biblioottawalibrary.ca/en/branch/main",
+      "https://about.biblioottawalibrary.ca/en/library",
+      "https://about.biblioottawalibrary.ca/en",
+      "https://en.wikipedia.org/wiki/Ottawa_Public_Library",
+      "https://www.reddit.com/r/ottawa/comments/1twvx0b/the_ottawa_public_library_should_open_earlier/"
+    ],
+    "total_ms": 906,
+    "answer": "The Ottawa Public Library main branch closes at 5:00 pm on Saturdays.  \n(Source: Ottawa Public Library Main Branch Hours [1])",
+    "cost": 0.00436,
+    "tokens": {
+      "gpt-4.1": [
+        417,
+        28
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 845,
+    "sources": [
+      "https://www.nhl.com/news/nhl-stanley-cup-champions-winners-complete-list-287705398",
+      "https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions",
+      "https://records.nhl.com/awards/stanley-cup/winners",
+      "https://www.facebook.com/Hurricanes/videos/stanley-cup-champions-once-again/1359205056074191/",
+      "https://en.wikipedia.org/wiki/Stanley_Cup"
+    ],
+    "total_ms": 1701,
+    "answer": "The most recent Stanley Cup was won by the Carolina Hurricanes in 2026.  \nSource: NHL.com, Wikipedia",
+    "cost": 0.06566,
+    "tokens": {
+      "gpt-4.1": [
+        31090,
+        23
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 920,
+    "sources": [
+      "https://ncc-ccn.gc.ca/events/fall-rhapsody",
+      "https://www.facebook.com/gatineaupark/posts/were-officially-peak-season-on-our-colour-meter-gatineau-park-is-full-of-vibrant/1579823760851608/",
+      "https://www.reddit.com/r/ottawa/comments/1fvkfb9/colour_meter_for_gatineau_park_colours/",
+      "https://www.readersdigest.ca/travel/canada/gatineau-park-fall/",
+      "https://www.facebook.com/ottawanotboring/videos/the-peak-of-fall-will-arrive-soon-to-gatineau-park-and-you-wont-want-to-miss-it-/2349626598905922/"
+    ],
+    "total_ms": 2224,
+    "answer": "Yes, the fall colours in Gatineau Park are at their peak right now, with vibrant red, orange, and yellow leaves.  \nSource: [Facebook post by Gatineau Park](https://www.facebook.com/gatineaupark/posts/were-officially-peak-season-on-our-colour-meter-gatineau-park-is-full-of-vibrant/1579823760851608/) (19 hours ago).",
+    "cost": 0.00503,
+    "tokens": {
+      "gpt-4.1": [
+        515,
+        87
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 449,
+    "sources": [
+      "https://www.timeanddate.com/time/change/canada/ottawa",
+      "https://www.ctvnews.ca/ottawa/article/daylight-saving-time-ends-in-the-ottawa-area-this-weekend-heres-what-you-need-to-know/",
+      "https://www.youtube.com/watch?v=DvVrVukQTqc",
+      "https://en.wikipedia.org/wiki/Daylight_saving_time_in_Canada",
+      "https://ottawa.citynews.ca/2026/03/06/ontario-daylight-saving-time-march-2026-spring-forward-canada/"
+    ],
+    "total_ms": 1269,
+    "answer": "The clocks in Ottawa go back one hour on Sunday, November 1, 2026.  \nSource: [timeanddate.com](https://www.timeanddate.com/time/change/canada/ottawa)",
+    "cost": 0.00457,
+    "tokens": {
+      "gpt-4.1": [
+        459,
+        44
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 400,
+    "sources": [
+      "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/april-2018/5-4-3-2-1-coping-technique-for-anxiety",
+      "https://www.calm.com/blog/5-4-3-2-1-a-simple-exercise-to-calm-the-mind",
+      "https://www.youtube.com/watch?v=30VMIEmA114",
+      "https://phillyintegrative.com/blog/5-4-3-2-1-coping-technique-for-anxiety-a-simple-grounding-exercise",
+      "https://www.facebook.com/baptisthealth/videos/anxiety-doesnt-follow-a-schedule-but-you-can-be-prepared-for-it-the-5-4-3-2-1-me/977046464785397/"
+    ],
+    "total_ms": 2448,
+    "answer": "The 5-4-3-2-1 grounding technique is a simple exercise to help manage anxiety by focusing on your senses. You identify 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, and 1 you can taste. This helps bring your attention to the present moment. (Sources: [2], [4], [5])",
+    "cost": 0.00516,
+    "tokens": {
+      "gpt-4.1": [
+        596,
+        83
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 308,
+    "sources": [
+      "https://visit.parl.ca/sites/Visit/default/en_CA/HOC",
+      "https://rts.parl.ca/en-CA/tickets",
+      "https://www.parliament.uk/visiting/visiting-and-tours/tour-prices/",
+      "https://ottawatourism.ca/en/ottawa-insider/parliament-hill-free-tours-and-programming",
+      "https://www.tripadvisor.com/Attraction_Review-g155004-d155615-Reviews-Parliament_Hill_and_Buildings-Ottawa_Ontario.html"
+    ],
+    "total_ms": 1191,
+    "answer": "Tours of Parliament Hill are free of charge.  \nSource: Ottawa Tourism [4], Tripadvisor [5], Visit the House of Commons [1].",
+    "cost": 0.00463,
+    "tokens": {
+      "gpt-4.1": [
+        551,
+        29
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 173,
+    "sources": [
+      "https://www.octranspo.com/en/alerts/",
+      "https://occasionaltransport.ca/",
+      "https://www.reddit.com/r/ottawa/comments/1p238o9/line_1_experiencing_delays/",
+      "https://x.com/OC_TranspoHelps?lang=en",
+      "https://ottawacitizen.com/news/new-service-disruption-oc-transpo-lrt-otrain"
+    ],
+    "total_ms": 969,
+    "answer": "Yes, there have been service disruptions and delays on Ottawa's O-Train Line 1 this week, and Line 4 train service is temporarily suspended with replacement bus service running.  \nSources: Ottawa Citizen, OC Transpo Helps on X.",
+    "cost": 0.00457,
+    "tokens": {
+      "gpt-4.1": [
+        438,
+        49
+      ]
+    }
+  },
+  {
+    "option": "firecrawl",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 392,
+    "sources": [
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://www.health.com/magnesium-glycinate-side-effects-11858289",
+      "https://mcpress.mayoclinic.org/nutrition-fitness/magnesium-glycinate-is-this-supplement-helpful-for-you/",
+      "https://passionhealthphysicians.com/magnesium-glycinate-benefits-side-effects/",
+      "https://www.mskcc.org/pdf/cancer-care/patient-education/medications/adult/magnesium-glycinate?mode=large"
+    ],
+    "total_ms": 1156,
+    "answer": "Common side effects of magnesium glycinate include diarrhea, nausea, stomach pain, and gas. High doses may also cause vomiting and gastrointestinal irritation. Source: Medical News Today, Mayo Clinic.",
+    "cost": 0.00514,
+    "tokens": {
+      "gpt-4.1": [
+        773,
+        37
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "total_ms": 5010,
+    "answer": "Here\u2019s the Ottawa forecast for this weekend (Oct 9\u201311, 2026):  \n\n- **Friday** \u2014 Mostly cloudy with a few brief showers possible. High around 14 \u00b0C (57 \u00b0F), low about 4 \u00b0C (38 \u00b0F).   \n- **Saturday** \u2014 Cloudy in the morning, then a mix of clouds and sunshine in the afternoon. High near 17 \u00b0C (62 \u00b0F), low around 8 \u00b0C (47 \u00b0F).   \n- **Sunday** \u2014 Warm and partly sunny with high clouds. High about 20 \u00b0C (69 \u00b0F), low near 12 \u00b0C (54 \u00b0F).",
+    "cost": 0.0141,
+    "tokens": {
+      "gpt-5-search-api": [
+        1818,
+        183
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "total_ms": 7766,
+    "answer": "Canadian Thanksgiving in 2026 is on Monday, October 12. ([farmersalmanac.com](https://www.farmersalmanac.com/when-canadian-thanksgiving?utm_source=openai))",
+    "cost": 0.03101,
+    "tokens": {
+      "gpt-5-search-api": [
+        16498,
+        39
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "total_ms": 4772,
+    "answer": "The Ottawa Public Library Main branch closes at 5:00 pm on Saturdays. ([about.biblioottawalibrary.ca](https://about.biblioottawalibrary.ca/en/branch/main?utm_source=openai))",
+    "cost": 0.03124,
+    "tokens": {
+      "gpt-5-search-api": [
+        16659,
+        42
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "total_ms": 4730,
+    "answer": "The most recent Stanley Cup winner is the Carolina Hurricanes, who defeated the Vegas Golden Knights 4-2 in the 2026 Finals. ([nhl.com](https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398?utm_source=openai))",
+    "cost": 0.03145,
+    "tokens": {
+      "gpt-5-search-api": [
+        16677,
+        60
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "total_ms": 7872,
+    "answer": "The fall colours at Gatineau Park are just about at their peak right now, especially at spots like Champlain Lookout \u2014 peak is forecasted for October 8\u201312, 2026. ([autumnguide.com](https://www.autumnguide.com/things-to-do/gatineau-park-champlain-lookout?utm_source=openai))",
+    "cost": 0.03148,
+    "tokens": {
+      "gpt-5-search-api": [
+        16656,
+        66
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "total_ms": 4563,
+    "answer": "The clocks in Ottawa go back one hour on Sunday, November 1, 2026 at 2:00 AM local daylight time. ([timeanddate.com](https://www.timeanddate.com/time/change/canada?year=2026&utm_source=openai))",
+    "cost": 0.03121,
+    "tokens": {
+      "gpt-5-search-api": [
+        16427,
+        68
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "total_ms": 6783,
+    "answer": "The 5-4-3-2-1 grounding technique is a mindfulness exercise used to reduce anxiety by bringing awareness into the present through the senses. ([health.clevelandclinic.org](https://health.clevelandclinic.org/54321-grounding-technique?utm_source=openai))  \n\nHere\u2019s how it works in order:  \n1. Name 5 things you can *see*  \n2. Name 4 things you can *feel* (touch)  \n3. Name 3 things you can *hear*  \n4. Name 2 things you can *smell*  \n5. Name 1 thing you can *taste* ([health.clevelandclinic.org](https://health.clevelandclinic.org/54321-grounding-technique?utm_source=openai))",
+    "cost": 0.03242,
+    "tokens": {
+      "gpt-5-search-api": [
+        16623,
+        164
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "total_ms": 4752,
+    "answer": "A tour of Parliament Hill is free \u2014 there\u2019s no admission fee. ([ottawatours.net](https://ottawatours.net/visiting-parliament-hill-tours-prices-hours/?utm_source=openai))  \n\nYou do need to reserve a ticket in advance (no cost), and show government-issued ID if you\u2019re 16 or older. ([library-biblio.parl.ca](https://library-biblio.parl.ca/sites/Visit/default/en_CA/HOC?utm_source=openai))",
+    "cost": 0.03162,
+    "tokens": {
+      "gpt-5-search-api": [
+        16602,
+        87
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "total_ms": 4569,
+    "answer": "I checked the latest from OC Transpo \u2014 there are *no current disruptions* reported on the O-Train (Lines 1 or 2) this week. ([otranspo.ca](https://otranspo.ca/en/today?utm_source=openai))",
+    "cost": 0.03101,
+    "tokens": {
+      "gpt-5-search-api": [
+        16334,
+        59
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "total_ms": 5763,
+    "answer": "Here are some common side effects of magnesium glycinate:  \n\n- Nausea and stomach discomfort, especially if taken on an empty stomach. ([swisse.com.au](https://swisse.com.au/blogs/ingredients/magnesium-glycinate-side-effects-what-you-need-to-know?utm_source=openai))  \n- Loose stools or diarrhea, particularly with higher doses. ([healthline.com](https://www.healthline.com/health/magnesium-glycinate?utm_source=openai))  \n- Abdominal cramping and bloating. ([acibademinternational.com](https://acibademinternational.com/health-library/magnesium-glycinate-a-complete-medical-overview/?utm_source=openai))  \n\nIf you have kidney problems or take certain medications, the risk of more serious effects increases\u2014check with a healthcare provider in those cases. ([medicalnewstoday.com](https://www.medicalnewstoday.com/articles/315372?utm_source=openai))",
+    "cost": 0.0327,
+    "tokens": {
+      "gpt-5-search-api": [
+        16661,
+        187
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "total_ms": 2762,
+    "answer": "Here\u2019s Ottawa\u2019s weekend forecast:\n\n- **Friday (Oct 9):** Mostly cloudy with a chance of a brief shower. High near 14\u00b0C (57\u00b0F), low around 4\u00b0C (38\u00b0F).   \n- **Saturday (Oct 10):** Cloudy in the morning, clearing to some sun in the afternoon. High about 17\u00b0C (62\u00b0F), low near 8\u00b0C (47\u00b0F).   \n- **Sunday (Oct 11):** Warmer, with sun mixed with high clouds. High around 20\u00b0C (69\u00b0F), low near 12\u00b0C (54\u00b0F).",
+    "cost": 0.01397,
+    "tokens": {
+      "gpt-5-search-api": [
+        1818,
+        170
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "total_ms": 6900,
+    "answer": "Canadian Thanksgiving in 2026 is on Monday, October 12. ([timeanddate.com](https://www.timeanddate.com/holidays/canada/thanksgiving-day%23obs?utm_source=openai))",
+    "cost": 0.03123,
+    "tokens": {
+      "gpt-5-search-api": [
+        16616,
+        46
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "total_ms": 5994,
+    "answer": "The Ottawa Public Library main branch (120 Metcalfe) closes at 5:00 pm on Saturdays. ([about.biblioottawalibrary.ca](https://about.biblioottawalibrary.ca/en/branch/main?utm_source=openai))",
+    "cost": 0.03059,
+    "tokens": {
+      "gpt-5-search-api": [
+        16084,
+        48
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "total_ms": 5940,
+    "answer": "The most recent Stanley Cup champions are the Carolina Hurricanes. They won the 2026 Stanley Cup by defeating the Vegas Golden Knights 4 games to 2. ([nhl.com](https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398?utm_source=openai))",
+    "cost": 0.03124,
+    "tokens": {
+      "gpt-5-search-api": [
+        16481,
+        64
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "total_ms": 5320,
+    "answer": "Yes \u2014 fall colours in Gatineau Park are considered to be at \u201cpeak season\u201d right now, according to the National Capital Commission. ([ncc-ccn.gc.ca](https://ncc-ccn.gc.ca/events/fall-rhapsody?utm_source=openai))\n\nThe broader region\u2019s forecasting also puts Gatineau Park\u2019s peak foliage between **October 7\u201318, 2026**, meaning we\u2019re right in the prime window. ([lake.com](https://www.lake.com/company/reports/fall-foliage-map/?utm_source=openai))",
+    "cost": 0.03174,
+    "tokens": {
+      "gpt-5-search-api": [
+        16567,
+        103
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "total_ms": 4441,
+    "answer": "In Ottawa, the clocks go back 1 hour on Sunday, November 1, 2026 at 2:00 AM, switching from Daylight Saving Time (EDT, UTC\u22124) to Standard Time (EST, UTC\u22125). ([timeanddate.com](https://www.timeanddate.com/time/change/%406094836?year=2026&utm_source=openai))",
+    "cost": 0.03123,
+    "tokens": {
+      "gpt-5-search-api": [
+        16369,
+        77
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "total_ms": 6867,
+    "answer": "The 5-4-3-2-1 grounding technique is a mindfulness exercise to help calm anxiety by anchoring your attention to the present using your five senses. ([health.clevelandclinic.org](https://health.clevelandclinic.org/54321-grounding-technique?utm_source=openai))  \n\nHere\u2019s how it works:  \n- Notice **5 things** you see.  \n- Notice **4 things** you can physically feel (touch).  \n- Notice **3 things** you hear.  \n- Notice **2 things** you smell.  \n- Notice **1 thing** you taste. ([health.clevelandclinic.org](https://health.clevelandclinic.org/54321-grounding-technique?utm_source=openai))",
+    "cost": 0.03216,
+    "tokens": {
+      "gpt-5-search-api": [
+        16598,
+        141
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "total_ms": 8715,
+    "answer": "Tours of Parliament Hill are free of charge \u2014 there\u2019s no admission fee for official guided tours, the grounds, or visitor experiences. ([canadaguides.ca](https://canadaguides.ca/ontario/ottawa/parliament-hill-visitor-guide-tours-rehabilitation-and-practical-tips?utm_source=openai))\n\nYou will need to reserve tickets in advance for indoor tours, and bring valid ID. ([canadaguides.ca](https://canadaguides.ca/ontario/ottawa/parliament-hill-visitor-guide-tours-rehabilitation-and-practical-tips?utm_source=openai))",
+    "cost": 0.03178,
+    "tokens": {
+      "gpt-5-search-api": [
+        16536,
+        111
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "total_ms": 13661,
+    "answer": "There are *no reported disruptions* for any O-Train lines (Line 1, Line 2, or Line 4) this week in Ottawa. ([otranspo.ca](https://otranspo.ca/en/today?utm_source=openai))\n\nThe only ongoing alert is that at **Tremblay Station**, only the eastbound platform is in service on Line 1 due to an operating issue. ([octranspo.com](https://www.octranspo.com/en/alerts?utm_source=openai))",
+    "cost": 0.03152,
+    "tokens": {
+      "gpt-5-search-api": [
+        16385,
+        104
+      ]
+    }
+  },
+  {
+    "option": "openai_search_model",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "total_ms": 6527,
+    "answer": "Here are some common side effects of magnesium glycinate:\n\n\u2022 Digestive issues \u2014 nausea, stomach upset, bloating, loose stools or diarrhea (more likely with higher doses) ([acibademinternational.com](https://acibademinternational.com/health-library/magnesium-glycinate-for-sleep-benefits-side-effects-and-what-the-evidence-shows/?utm_source=openai))  \n\u2022 Drowsiness or feeling unusually relaxed around the time you take it ([iherb.com](https://www.iherb.com/blog/magnesium-glycinate-side-effects/2427?utm_source=openai))  \n\nIf you have kidney problems or take certain medications, there\u2019s a risk of more serious effects \u2014 so check with a healthcare professional first. ([acibademinternational.com](https://acibademinternational.com/health-library/magnesium-glycinate-for-sleep-benefits-side-effects-and-what-the-evidence-shows/?utm_source=openai))",
+    "cost": 0.03204,
+    "tokens": {
+      "gpt-5-search-api": [
+        16414,
+        152
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 0,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 567,
+    "sources": [
+      "https://weather.gc.ca/city/jump_e.html?city=ottawa%2C+on&lang=e",
+      "https://www.accuweather.com/en/ca/ottawa/k1p/weather-forecast/55487",
+      "https://weather.gc.ca/en/forecast/hourly/index.html?coords=45.396%2C-75.684",
+      "https://www.wunderground.com/forecast/ca/ottawa",
+      "https://weather.com/en-CA/ca/ontario/city/ottawa/today"
+    ],
+    "total_ms": 1507,
+    "answer": "The search results do not contain specific weather details for this weekend in Ottawa. Please check Environment Canada or another weather site for the latest forecast. (Source: Environment Canada, Weather.com)",
+    "cost": 0.00841,
+    "tokens": {
+      "gpt-4.1": [
+        1558,
+        37
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 0,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 446,
+    "sources": [
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://www.farmersalmanac.com/when-canadian-thanksgiving",
+      "https://longweekends.org/holiday/thanksgiving/en",
+      "https://www.almanac.com/content/ways-canadian-thanksgiving-differs-american-thanksgiving",
+      "https://canadanewsmedia.ca/what-is-thanksgiving-in-canada-history-and-meaning/"
+    ],
+    "total_ms": 1612,
+    "answer": "Canadian Thanksgiving is on Monday, October 12, 2026.  \n(Source: timeanddate.com [1]; Farmers\u2019 Almanac [2])",
+    "cost": 0.00832,
+    "tokens": {
+      "gpt-4.1": [
+        1535,
+        31
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 0,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 513,
+    "sources": [
+      "https://about.biblioottawalibrary.ca/en/contact-us",
+      "https://about.prod.opl.dropfort.dev/en/branch/main",
+      "https://biblioottawalibrary.ca/library",
+      "https://about.biblioottawalibrary.ca/en/statutory-holiday-hours",
+      "https://ottawa-public-library-canada.open-closed.net/ottawa-opening-hours-120-metcalfe"
+    ],
+    "total_ms": 1431,
+    "answer": "The Ottawa Public Library main branch closes at 5:00 pm on Saturdays.  \n(Source: [Ottawa Public Library](https://about.prod.opl.dropfort.dev/en/branch/main) and [Open-Closed.net](https://ottawa-public-library-canada.open-closed.net/ottawa-opening-hours-120-metcalfe))",
+    "cost": 0.00865,
+    "tokens": {
+      "gpt-4.1": [
+        1551,
+        69
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 0,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 510,
+    "sources": [
+      "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026",
+      "https://www.nhl.com/hurricanes/news/carolina-hurricanes-win-2026-stanley-cup-final",
+      "https://apnews.com/article/hurricanes-golden-knights-score-stanley-cup-3877d81383e8dfa19c7f118bd7751962",
+      "https://www.bbc.com/sport/ice-hockey/articles/c39yvv8k77eo",
+      "https://www.reuters.com/sports/hurricanes-beat-golden-knights-win-stanley-cup-2026-06-15/"
+    ],
+    "total_ms": 1439,
+    "answer": "The Carolina Hurricanes won the most recent Stanley Cup, defeating the Vegas Golden Knights in 2026.  \n(Source: NHL.com, BBC Sport)",
+    "cost": 0.00826,
+    "tokens": {
+      "gpt-4.1": [
+        1512,
+        29
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 0,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 531,
+    "sources": [
+      "https://ncc-ccn.gc.ca/events/fall-rhapsody",
+      "https://www.odysseyshuttles.ca/guides/gatineau-park-fall-colours-2026",
+      "https://www.ctvnews.ca/ottawa/article/fall-colours-hitting-their-peak-in-gatineau-park/",
+      "https://ottawatours.net/blog/gatineau-park-fall-foliage-complete-guide/",
+      "https://ncc-ccn.gc.ca/blog/tips-for-taking-in-the-fall-colours-in-gatineau-park"
+    ],
+    "total_ms": 2355,
+    "answer": "Yes, the fall colours in Gatineau Park are at their peak right now. This was last updated on October 6, 2026.  \n(Source: National Capital Commission, Odyssey Shuttles)",
+    "cost": 0.00821,
+    "tokens": {
+      "gpt-4.1": [
+        1436,
+        42
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 0,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 527,
+    "sources": [
+      "https://www.timeanddate.com/time/zone/canada/ottawa",
+      "http://www.timeanddate.com/time/change/canada?year=2026",
+      "http://en.timeofdate.com/city/Canada/Ottawa/timezone/change",
+      "https://www.worldometers.info/time/ottawa-canada/",
+      "https://www.ctvnews.ca/ottawa/article/daylight-saving-time-ends-in-the-ottawa-area-this-weekend-heres-what-you-need-to-know/"
+    ],
+    "total_ms": 1642,
+    "answer": "In Ottawa, the clocks go back one hour on Sunday, November 1, 2026, at 2:00 am as daylight saving time ends.  \n(Source: timeanddate.com [2][4])",
+    "cost": 0.00911,
+    "tokens": {
+      "gpt-4.1": [
+        1879,
+        44
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 0,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 483,
+    "sources": [
+      "https://health.clevelandclinic.org/54321-grounding-technique",
+      "https://www.healthline.com/health/anxiety/5-4-3-2-1-grounding-technique-for-anxiety",
+      "https://thrivingcenterofpsych.com/blog/5-4-3-2-1-grounding-the-complete-technique-how-it-works-and-when-to-use-it/",
+      "https://www.zocdoc.com/blog/explainer/the-five-senses-grounding-technique/",
+      "https://insighttimer.com/techniques/grounding/5-4-3-2-1-sensory-grounding"
+    ],
+    "total_ms": 1831,
+    "answer": "The 5-4-3-2-1 grounding technique is a simple method to help calm anxiety by focusing on your five senses. You name 5 things you see, 4 you touch, 3 you hear, 2 you smell, and 1 you taste, bringing your attention to the present moment. This often helps reduce anxious thoughts quickly. (Sources: Healthline[2], Thriving Center of Psychology[3])",
+    "cost": 0.00872,
+    "tokens": {
+      "gpt-4.1": [
+        1502,
+        89
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 0,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 457,
+    "sources": [
+      "https://rts.parl.ca/",
+      "https://rts.parl.ca/en-CA/home",
+      "https://rts.parl.ca/en-CA/tickets?Facility=0&Language=english&currentDate=2026-08-22",
+      "https://visit.parl.ca/staticfiles/Visit/assets/html/visit_plan_en.html",
+      "https://rts.parl.ca/Tickets"
+    ],
+    "total_ms": 1669,
+    "answer": "The search results do not mention any cost for tours of Parliament Hill. It appears that information about ticket prices is not provided.  \nSource: [Parliament of Canada tours](https://rts.parl.ca/)",
+    "cost": 0.00841,
+    "tokens": {
+      "gpt-4.1": [
+        1534,
+        43
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 0,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 509,
+    "sources": [
+      "https://octranspo.org/",
+      "https://octranspo.org/status/2026-10-06/",
+      "https://octranspo.org/status/2026-09-07/",
+      "https://otranspo.ca/en/today",
+      "https://www.octranspo.com/alerts"
+    ],
+    "total_ms": 1329,
+    "answer": "No, there have been no O-Train (Ottawa LRT) disruptions posted this week as of today. Source: octranspo.org, last recorded 2026-10-07.",
+    "cost": 0.00808,
+    "tokens": {
+      "gpt-4.1": [
+        1379,
+        40
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 0,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 503,
+    "sources": [
+      "https://www.webmd.com/drugs/magnesium-supplements",
+      "https://mcpress.mayoclinic.org/nutrition-fitness/magnesium-glycinate-is-this-supplement-helpful-for-you/",
+      "https://www.healthline.com/health/magnesium-glycinate",
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://www.health.com/magnesium-glycinate-side-effects-11858289"
+    ],
+    "total_ms": 1405,
+    "answer": "Common side effects of magnesium glycinate include diarrhea, gas, and stomach pain, especially at high doses. Serious side effects are rare unless you take too much. (Sources: Health.com, WebMD)",
+    "cost": 0.00814,
+    "tokens": {
+      "gpt-4.1": [
+        1404,
+        41
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 1,
+    "question": "What's the weather forecast for Ottawa this weekend?",
+    "search_ms": 437,
+    "sources": [
+      "https://weather.gc.ca/city/jump_e.html?city=ottawa%2C+on&lang=e",
+      "https://www.accuweather.com/en/ca/ottawa/k1p/weather-forecast/55487",
+      "https://weather.gc.ca/en/forecast/hourly/index.html?coords=45.396%2C-75.684",
+      "https://www.wunderground.com/forecast/ca/ottawa",
+      "https://weather.com/en-CA/ca/ontario/city/ottawa/today"
+    ],
+    "total_ms": 1098,
+    "answer": "Sorry, the search results do not provide a specific weather forecast for Ottawa for this coming weekend. No detailed weekend forecast is available. (Sources: Environment Canada, AccuWeather, Weather Underground, The Weather Channel)",
+    "cost": 0.00846,
+    "tokens": {
+      "gpt-4.1": [
+        1558,
+        43
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 1,
+    "question": "When is Canadian Thanksgiving this year?",
+    "search_ms": 467,
+    "sources": [
+      "https://www.timeanddate.com/holidays/canada/thanksgiving-day",
+      "https://www.farmersalmanac.com/when-canadian-thanksgiving",
+      "https://longweekends.org/holiday/thanksgiving/en",
+      "https://www.almanac.com/content/ways-canadian-thanksgiving-differs-american-thanksgiving",
+      "https://canadanewsmedia.ca/what-is-thanksgiving-in-canada-history-and-meaning/"
+    ],
+    "total_ms": 2269,
+    "answer": "Canadian Thanksgiving in 2026 is on Monday, October 12.  \nSource: [timeanddate.com][1], [Farmers' Almanac][2]",
+    "cost": 0.00834,
+    "tokens": {
+      "gpt-4.1": [
+        1535,
+        34
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 1,
+    "question": "What time does the Ottawa Public Library main branch close on Saturdays?",
+    "search_ms": 127,
+    "sources": [
+      "https://about.biblioottawalibrary.ca/en/contact-us",
+      "https://about.prod.opl.dropfort.dev/en/branch/main",
+      "https://biblioottawalibrary.ca/library",
+      "https://about.biblioottawalibrary.ca/en/statutory-holiday-hours",
+      "https://ottawa-public-library-canada.open-closed.net/ottawa-opening-hours-120-metcalfe"
+    ],
+    "total_ms": 1100,
+    "answer": "The Ottawa Public Library main branch closes at 5:00 pm on Saturdays.  \n(Source: [Ottawa Public Library](https://about.prod.opl.dropfort.dev/en/branch/main), [Open-Closed.net](https://ottawa-public-library-canada.open-closed.net/ottawa-opening-hours-120-metcalfe))",
+    "cost": 0.00865,
+    "tokens": {
+      "gpt-4.1": [
+        1551,
+        68
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 1,
+    "question": "Who won the most recent Stanley Cup?",
+    "search_ms": 102,
+    "sources": [
+      "https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026",
+      "https://www.nhl.com/hurricanes/news/carolina-hurricanes-win-2026-stanley-cup-final",
+      "https://apnews.com/article/hurricanes-golden-knights-score-stanley-cup-3877d81383e8dfa19c7f118bd7751962",
+      "https://www.bbc.com/sport/ice-hockey/articles/c39yvv8k77eo",
+      "https://www.reuters.com/sports/hurricanes-beat-golden-knights-win-stanley-cup-2026-06-15/"
+    ],
+    "total_ms": 1296,
+    "answer": "The Carolina Hurricanes won the most recent Stanley Cup, defeating the Vegas Golden Knights in 2026.  \nSource: NHL.com, Reuters, BBC Sport.",
+    "cost": 0.00827,
+    "tokens": {
+      "gpt-4.1": [
+        1512,
+        31
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 1,
+    "question": "Are the fall colours in Gatineau Park at their peak right now?",
+    "search_ms": 430,
+    "sources": [
+      "https://ncc-ccn.gc.ca/events/fall-rhapsody",
+      "https://www.odysseyshuttles.ca/guides/gatineau-park-fall-colours-2026",
+      "https://www.ctvnews.ca/ottawa/article/fall-colours-hitting-their-peak-in-gatineau-park/",
+      "https://ottawatours.net/blog/gatineau-park-fall-foliage-complete-guide/",
+      "https://ncc-ccn.gc.ca/blog/tips-for-taking-in-the-fall-colours-in-gatineau-park"
+    ],
+    "total_ms": 1568,
+    "answer": "Yes, the fall colours in Gatineau Park are at their peak right now. Both recent updates from the National Capital Commission and local guides confirm that early October 2026 is peak season for fall colours in the park.  \n(Source: National Capital Commission, Odyssey Shuttles)",
+    "cost": 0.00833,
+    "tokens": {
+      "gpt-4.1": [
+        1436,
+        57
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 1,
+    "question": "When do the clocks go back in Ottawa this fall?",
+    "search_ms": 479,
+    "sources": [
+      "https://www.timeanddate.com/time/zone/canada/ottawa",
+      "http://www.timeanddate.com/time/change/canada?year=2026",
+      "http://en.timeofdate.com/city/Canada/Ottawa/timezone/change",
+      "https://www.worldometers.info/time/ottawa-canada/",
+      "https://www.ctvnews.ca/ottawa/article/daylight-saving-time-ends-in-the-ottawa-area-this-weekend-heres-what-you-need-to-know/"
+    ],
+    "total_ms": 1299,
+    "answer": "In Ottawa, the clocks go back one hour on Sunday, November 1, 2026, at 2:00 am as daylight saving time ends.  \nSource: timeanddate.com [1][2][3][4]",
+    "cost": 0.00914,
+    "tokens": {
+      "gpt-4.1": [
+        1879,
+        48
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 1,
+    "question": "What is the 5-4-3-2-1 grounding technique?",
+    "search_ms": 511,
+    "sources": [
+      "https://health.clevelandclinic.org/54321-grounding-technique",
+      "https://www.healthline.com/health/anxiety/5-4-3-2-1-grounding-technique-for-anxiety",
+      "https://thrivingcenterofpsych.com/blog/5-4-3-2-1-grounding-the-complete-technique-how-it-works-and-when-to-use-it/",
+      "https://www.zocdoc.com/blog/explainer/the-five-senses-grounding-technique/",
+      "https://insighttimer.com/techniques/grounding/5-4-3-2-1-sensory-grounding"
+    ],
+    "total_ms": 1509,
+    "answer": "The 5-4-3-2-1 grounding technique is a simple exercise that helps calm anxiety by focusing on your five senses. You name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, and 1 you taste. This shifts your attention to the present and away from anxious thoughts (sources: Healthline, Thriving Center of Psychology).",
+    "cost": 0.00866,
+    "tokens": {
+      "gpt-4.1": [
+        1502,
+        82
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 1,
+    "question": "How much does a tour of Parliament Hill cost?",
+    "search_ms": 422,
+    "sources": [
+      "https://rts.parl.ca/",
+      "https://rts.parl.ca/en-CA/home",
+      "https://rts.parl.ca/en-CA/tickets?Facility=0&Language=english&currentDate=2026-08-22",
+      "https://visit.parl.ca/staticfiles/Visit/assets/html/visit_plan_en.html",
+      "https://rts.parl.ca/Tickets"
+    ],
+    "total_ms": 1726,
+    "answer": "The search results do not mention any cost for tours of Parliament Hill, so I can't confirm the price. You may want to visit the official Parliament of Canada tours website for more details.  \n(Source: [1], [2], [3], [5])",
+    "cost": 0.00848,
+    "tokens": {
+      "gpt-4.1": [
+        1534,
+        52
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 1,
+    "question": "Are there any O-Train (Ottawa LRT) disruptions this week?",
+    "search_ms": 416,
+    "sources": [
+      "https://octranspo.org/",
+      "https://octranspo.org/status/2026-10-06/",
+      "https://octranspo.org/status/2026-09-07/",
+      "https://otranspo.ca/en/today",
+      "https://www.octranspo.com/alerts"
+    ],
+    "total_ms": 1383,
+    "answer": "No, there are no posted O-Train disruptions this week for any lines. Source: OC Transpo public alerts, as of October 7, 2026 ([1]).",
+    "cost": 0.00805,
+    "tokens": {
+      "gpt-4.1": [
+        1379,
+        36
+      ]
+    }
+  },
+  {
+    "option": "exa_instant",
+    "round": 1,
+    "question": "What are common side effects of magnesium glycinate?",
+    "search_ms": 90,
+    "sources": [
+      "https://www.webmd.com/drugs/magnesium-supplements",
+      "https://mcpress.mayoclinic.org/nutrition-fitness/magnesium-glycinate-is-this-supplement-helpful-for-you/",
+      "https://www.healthline.com/health/magnesium-glycinate",
+      "https://www.medicalnewstoday.com/articles/315372",
+      "https://www.health.com/magnesium-glycinate-side-effects-11858289"
+    ],
+    "total_ms": 1014,
+    "answer": "Common side effects of magnesium glycinate include diarrhea, gas, and stomach pain, especially at high doses. Most people tolerate it well, but taking too much can increase the risk of side effects. (Source: Health.com[5], WebMD[1])",
+    "cost": 0.00822,
+    "tokens": {
+      "gpt-4.1": [
+        1404,
+        52
+      ]
+    }
+  }
+]

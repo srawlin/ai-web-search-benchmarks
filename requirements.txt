@@ -1,0 +1,5 @@
+httpx
+certifi
+openai
+anthropic
+matplotlib
