@@ -25,7 +25,8 @@ NAMES = {"brave": "Brave", "exa": "Exa (fast)", "exa_instant": "Exa (instant)", 
          "openai_search_model": "OpenAI gpt-5-search-api", "openai_web_search": "OpenAI web_search tool",
          "anthropic_web_search": "Anthropic web search", "gemini_grounding": "Gemini + Google Search",
          "tavily": "Tavily", "perplexity_search": "Perplexity search", "perplexity_search_fast": "Perplexity search (fast)",
-         "kagi": "Kagi", "perplexity_agent": "Perplexity Agent API", "kagi_fastgpt": "Kagi FastGPT"}
+         "kagi": "Kagi", "perplexity_agent": "Perplexity Agent API", "kagi_fastgpt": "Kagi FastGPT",
+         "baseten": "Baseten (Parallel)"}
 ONE_CALL = set(ONE_CALL_LIST)
 COLORS = {"search": "#3b6fd4", "one_call": "#d9822b", "frontier": "#2e9e5b", "muted": "#9aa0a6"}
 PREVIEW = os.environ.get("CHART_PREVIEW_DIR")  # also write PNGs here, for checking the charts
@@ -71,11 +72,11 @@ def frontier(points: list[tuple[float, float, str]], better_y_high: bool) -> lis
 # Label nudges (points) where names would collide.
 OFFSETS = {"latency-vs-cost.svg": {"exa": (6, -13), "firecrawl": (-46, 14), "exa_instant": (8, -10), "brave": (-38, -14),
                                    "perplexity_search": (-95, 6), "perplexity_search_fast": (-45, -16),
-                                   "perplexity_agent": (6, -12), "jina_snippets": (6, 6)},
+                                   "perplexity_agent": (6, -12), "jina_snippets": (6, 6), "baseten": (6, 10)},
            "accuracy-vs-latency.svg": {"firecrawl": (-70, -2), "exa_answer": (10, -14), "exa": (9, -12),
-                                       "perplexity_agent": (-110, -14)},
+                                       "perplexity_agent": (-110, -14), "baseten": (-96, 6)},
            "accuracy-vs-cost.svg": {"firecrawl": (-10, 12), "exa": (9, 6), "tavily": (9, -16),
-                                    "perplexity_agent": (9, 14)}}
+                                    "perplexity_agent": (9, 14), "baseten": (-96, 6)}}
 
 
 def color(opt: str) -> str:

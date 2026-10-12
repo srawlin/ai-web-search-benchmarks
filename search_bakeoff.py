@@ -53,9 +53,9 @@ SEARCH_FEE = {"brave": 0.005, "exa": 0.008, "exa_instant": 0.005, "exa_answer": 
               "firecrawl": 0.0033, "openai_search_model": 0.010, "openai_web_search": 0.010,
               "anthropic_web_search": 0.010, "gemini_grounding": 0.014,
               "tavily": 0.008, "perplexity_search": 0.005, "perplexity_search_fast": 0.001, "kagi": 0.012,
-              "kagi_fastgpt": 0.015}
+              "kagi_fastgpt": 0.015, "baseten": 0.001}
 TOKENS = {"gpt-4.1": (2.0, 8.0), "gpt-5-search-api": (1.25, 10.0), "claude-haiku-4-5": (1.0, 5.0),
-          "gemini-3.8-flash": (0.30, 2.50)}
+          "gemini-3.8-flash": (0.30, 2.50), "moonshotai/Kimi-K3": (3.0, 15.0)}
 NOTES = {"jina": "10k-token minimum per search at $0.05/1M", "jina_snippets": "10k-token minimum per search",
          "firecrawl": "2 credits per 10 results; $5 per 1,500 credits on Hobby",
          "openai_search_model": "gpt-5-search-api (4o-mini search model retired)",
@@ -65,7 +65,8 @@ NOTES = {"jina": "10k-token minimum per search at $0.05/1M", "jina_snippets": "1
          "tavily": "1 credit per basic search; $0.008 pay-as-you-go, 1,000 free credits a month",
          "perplexity_search": "$5 per 1,000 requests", "perplexity_search_fast": "search_type=fast, $1 per 1,000 requests",
          "perplexity_agent": "Agent API preset=fast; cost taken from the response's usage.cost",
-         "kagi": "Search API v1, $12 per 1,000 requests", "kagi_fastgpt": "1.5 cents per query, cache disabled"}
+         "kagi": "Search API v1, $12 per 1,000 requests", "kagi_fastgpt": "1.5 cents per query, cache disabled",
+         "baseten": "Kimi-K3 with Parallel search as a Baseten server-side tool; ~$0.001/search passed through"}
 
 
 def env(name: str) -> str:
@@ -255,6 +256,22 @@ class Runner:
         return text, {"usd": float(u.get("cost", {}).get("total_cost", 0.0)),
                       d.get("model", "perplexity"): (u.get("input_tokens", 0), u.get("output_tokens", 0))}
 
+    async def baseten(self, q: str) -> tuple[str, dict]:
+        # Baseten runs the search server-side (Parallel) and answers with Kimi-K3 in one request.
+        r = await self.http.post(
+            "https://inference.baseten.co/v1/chat/completions",
+            headers={"Authorization": f"Bearer {env('BASETEN_API_KEY')}", "x-baseten-server-tools": "true"},
+            json={"model": "moonshotai/Kimi-K3", "max_tokens": 1200,
+                  "messages": [{"role": "system", "content": self.instructions},
+                               {"role": "user", "content": q}],
+                  "tools": [{"type": "baseten__parallel__web_search"}],
+                  "baseten": {"tool_settings": {"max_react_iterations": 3}}})
+        r.raise_for_status()
+        d = r.json()
+        u = d["usage"]
+        return d["choices"][0]["message"]["content"].strip(), {
+            "moonshotai/Kimi-K3": (u["prompt_tokens"], u["completion_tokens"])}
+
     async def kagi_fastgpt(self, q: str) -> tuple[str, dict]:
         r = await self._post_auth("https://kagi.com/api/v0/fastgpt", env("KAGI_API_KEY"), ("Bot", "Bearer"),
                                   json={"query": f"{q} (I live in Ottawa, Canada; today is {date.today()})",
@@ -268,7 +285,7 @@ THROTTLE = {"brave": 1.1, "firecrawl": 6.5, "openai_search_model": 20.0, "kagi":
 SEARCH_APIS = ["brave", "exa", "exa_instant", "jina", "jina_snippets", "firecrawl",
                "tavily", "perplexity_search", "perplexity_search_fast", "kagi"]
 ONE_CALL = ["exa_answer", "openai_search_model", "openai_web_search", "anthropic_web_search", "gemini_grounding",
-            "perplexity_agent", "kagi_fastgpt"]
+            "perplexity_agent", "kagi_fastgpt", "baseten"]
 
 
 def _cost(option: str, tokens: dict) -> float:

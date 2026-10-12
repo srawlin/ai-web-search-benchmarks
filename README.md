@@ -1,19 +1,20 @@
 # AI web search benchmarks
 
 Harness, raw data and charts behind the article
-[Web search for LLM agents: 16 options benchmarked on latency, cost, and accuracy](https://rawlinson.ca/articles/search-api-bakeoff).
+[Web search for LLM agents: 17 options benchmarked on latency, cost, and accuracy](https://rawlinson.ca/articles/search-api-bakeoff).
 
 Two kinds of option are compared: a search API whose top 5 results are handed to one fixed model (gpt-4.1) to answer, and
-"one call" options where the provider searches and answers in a single request. Ten questions, two rounds each, timed
-end to end from Ottawa (Toronto/YYZ region), priced at list, and the six time-sensitive questions rated blind by one
-human rater.
+"one call" options where the provider searches and answers in a single request. Ten questions, two rounds each
+(three for Baseten, added later), timed
+end to end from Ottawa (Toronto/YYZ region), priced at list. The six time-sensitive questions were rated blind by
+one human rater; Baseten's single round was rated by Claude after the answers had been labelled.
 
 ## Files
 
 - `search_bakeoff.py` — runs the options, writes `out/results.json`, builds the blind-rating page, scores ratings
 - `search_bakeoff_charts.py` — renders the six SVG charts in `charts/`
 - `out/results.json` — every call: option, round, question, timings (ms), cost (USD), answer, sources
-- `out/index.html`, `out/index-2.html` — the two blind-rating pages (answers shuffled, options hidden)
+- `out/index.html`, `out/index-2.html`, `out/index-3.html` — the blind-rating pages (answers shuffled, options hidden)
 - `out/key.json` — maps rating-page answer ids back to options
 - `out/ratings-round1.json`, `out/ratings-round2.json` — the rater's 1–5 scores
 
@@ -27,15 +28,16 @@ cp .env.example .env   # add the keys you have
 .venv/bin/python search_bakeoff.py report
 .venv/bin/python search_bakeoff.py page --page index-3.html OPTION...   # blind-rating page
 .venv/bin/python search_bakeoff.py score out/ratings-*.json
-.venv/bin/python search_bakeoff_charts.py out/ratings-round1.json out/ratings-round2.json
+.venv/bin/python search_bakeoff_charts.py out/ratings-round1.json out/ratings-round2.json out/ratings-round3.json
 ```
 
 Options: `brave exa exa_instant jina jina_snippets firecrawl tavily perplexity_search perplexity_search_fast kagi`
 (search API + gpt-4.1) and `exa_answer openai_search_model openai_web_search anthropic_web_search gemini_grounding
-perplexity_agent kagi_fastgpt` (one call). `kagi_fastgpt` is implemented but our key was rejected by the legacy
-FastGPT endpoint, so it has no data.
+perplexity_agent kagi_fastgpt baseten` (one call). `kagi_fastgpt` is implemented but our key was rejected by the legacy
+FastGPT endpoint, so it has no data. `baseten` is Kimi-K3 answering over Parallel search, run server-side by
+Baseten (needs `BASETEN_API_KEY`).
 
-## Results (October 7–8, 2026)
+## Results (October 7–12, 2026)
 
 | Option | Median search | Median total | Worst of 20 | Cost / lookup | Blind rating |
 | --- | --- | --- | --- | --- | --- |
@@ -51,7 +53,8 @@ FastGPT endpoint, so it has no data.
 | Jina (snippets) | 1.17 s | 2.20 s | 2.9 s | $0.002 | — |
 | Tavily | 1.50 s | 2.58 s | 4.6 s | $0.011 | 4.33 |
 | OpenAI `web_search` tool | — | 2.65 s | 9.1 s | $0.039 | — |
-| **Anthropic web search** | — | 2.74 s | 4.6 s | $0.021 | **4.67** |
+| **Anthropic web search** | — | 2.74 s | 4.6 s | $0.021 | 4.67 |
+| **Baseten (Parallel)** | — | 5.10 s | 23.6 s | $0.031 | **4.83** |
 | OpenAI `gpt-5-search-api` | — | 5.85 s | 13.7 s | $0.030 | — |
 | Gemini + Google Search | — | 6.72 s | 11.7 s | $0.014 | — |
 | Jina (with page text) | 18 s | 19 s | 27 s | $0.004 | — |
